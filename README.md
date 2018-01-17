@@ -6,41 +6,19 @@
 
 Objetivando automizar o sistema de locação de filmes desenvolvemos este software que busca abranger todos os aspectos que envolvem a locação,  
 
-
-
-Tem se tornado cada vez maior a busca por alimentação saudável. Alimentos com baixo teor calórico, sem glúten ou sem lactose. Pensando nesse público, e na tentativa de influenciar cada vez mais pessoas a se alimentarem de forma saudável, está loja se destina a fornecem diversas iguarias que se adequam à vida saudável.
-
-Dentre nossos produtos, encontram-se óleos de coco, óleos de abacate, barras de cereal ou de frutas, doces sem lactoses e temperos sem adição desal ou produtos inorgânicos. Além disso, nosso site contará com dicas de como incluir alimentos saudáveis à rotina diária, e quais os benefícios que estes alimentos trazem para anossa saúde. Como substituir alimentos gordurosos e calóricos por alimentos mais saudáveis e muitas outras dicas.
-
 ##2. Descrição do Problema
 
 O ambiente comercial atual requer formas práticas, funcionais e confiáves quando se trata de entregar um produto ou serviço idependente do ramo em que o mesmo é utilizado. 
 
 Nossa proposta está em trazer um produto que visa considerar todos os aspectos importantes de mercado e entregar um produto coeso e integro para o gerenciamento comercial de locação de filmes, automatizando processos e entregando um sistema ideal para a sua locadora.
 
-
-
-Nos dias de hoje cada vez mais pessoas procuram uma alimentação mais saudável, mas nem sempre sabem onde encontrar produtos do tipo
-Visando isso, esse site busca facilitar a oferta de produtos e dicas de alimentação saudável, independentemente do lugar que o cliente se encontra.
-
 ## 3. Objetivo
 
 Levar a sua empresa o gerenciamento de aluguel de filmes que irá suprir todas as necessidades, permitindo cadastros de Clientes, Catálogo de Filmes, Tela de Login, registros de empréstimo e devolução. 
 
-
-
-
-
-
-
-Fornecer aos clientes de forma prática e no conforto de suas casas, produtos orgânicos e saudáveis. Produtos livres de glúten, lactose, componentes inorgânicos e demasiada quantidade de sódio. Além disso, buscaremos fornecer dicas de como se alimentar de forma saudável, como incluir tais alimentos na rotina alimentar, e como substituir alimentos gordurosos e calóricos por alimentos saudáveis. 
-
-Nosso foco é atender ao público que deseja manter uma dieta alimentar saudável. E incentivar a transformação dos hábitos alimentares de cada vez mais pessoas. Nosso site conta também com uma aba de dicas de alimentação saudável.
-
 ## 4. Escopo da Aplicação
 Sistema que permite o gerenciamento da locação de filmes.
 
-O escopo do projeto é um site para que a Digital Nutri possa vender seus produtos e interagir com seus clientes.
 ## 5. Descrição do Produto
 Objetivando o acesso de forma simplificada e intuitiva foi criado um site utilizando PHP, interligado ao banco de dados
 
