@@ -237,18 +237,6 @@ Interações dos usuários com o sistema.
  - **Cenário de sucesso principal:**
     
  - **Extensões:** 
-  
-### 3.8 Caso de Uso VIII – Tabela de Título
-  - **Nível:** 
-  - **Atores primários:** 
-  - **Interessados:**
-    - **Administrador:**
-    - **Cliente:** 
-  - **Pré-condições:** 
-   - **Garantias de sucesso:** 
-      - **Cenário de sucesso principal:**
- 
-  - **Extensões:**
 
 
 ## 11 Referências
@@ -261,5 +249,5 @@ Interações dos usuários com o sistema.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5OTk3MTExOF19
+eyJoaXN0b3J5IjpbMTM5MTc1OTA5N119
 -->
