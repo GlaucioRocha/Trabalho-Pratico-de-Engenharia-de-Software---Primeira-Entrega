@@ -32,7 +32,7 @@ Nossa proposta está em trazer um produto que visa considerar todos os aspectos 
 |RF-08(1)           |Cadastro Administrador|Cadastro de Usuário Admistrador do Sistema	| Essencial
 |RF-09(1)         |Alterar Administrador|Modificar cadatro do admi	nistrador| Essencial
 |RF-10(1)        | Cadastro Usuário |Cadastro de Usuário| Essencial
-|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+|RF-11(1)         |Alterar Usuário|Modificar cadastro do administrador--- is em-dash|
 |Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
 |Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
 |Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
@@ -223,5 +223,5 @@ Interações dos usuários com o sistema.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg3MTM0Mjk0XX0=
+eyJoaXN0b3J5IjpbNTgwNzE1NDNdfQ==
 -->
