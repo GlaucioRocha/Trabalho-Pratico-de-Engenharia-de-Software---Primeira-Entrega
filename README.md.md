@@ -69,7 +69,7 @@ Interações dos usuários com o sistema.
     - Passos 3 a 5: Campos preenchimento indevido:
         - Processo de cadastro é interrompido;
         - Usuário recebe informações relacionadas ao problema encontrado. 
-### 3.2 Caso de Uso II – Cadastrar Filme
+### 3.2 Caso de Uso II – Cadastrar Título
  - **Nível:** Administrador e Usuário
  - **Atores primários:** Administrador e Usuário
  - **Interessados:** Administrador e Usuário
@@ -248,5 +248,5 @@ Interações dos usuários com o sistema.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MDM2NDQwMl19
+eyJoaXN0b3J5IjpbNDE3MjYxMDQwXX0=
 -->
