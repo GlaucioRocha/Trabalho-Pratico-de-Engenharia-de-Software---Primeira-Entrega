@@ -182,7 +182,7 @@ Interações dos usuários com o sistema.
   - **Extensões:**
   - 
 
-### 3.6 Caso de Uso VI – Logar
+### 3.7 Caso de Uso VI – Logar
   - **Nível:** Administrador ou Usuário
   - **Atores primários:** Administrador, Usuário
   - **Interessados:** 
@@ -204,7 +204,7 @@ Interações dos usuários com o sistema.
         - Notificação de erro ao Usuário;
         - Informações novamente solicitadas.
         - 
-### 3.7 Caso de Uso VIII – Lista de Clientes
+### 3.8 Caso de Uso VIII – Lista de Clientes
   - **Nível:** 
   - **Atores primários:** 
   - **Interessados:**
@@ -216,7 +216,7 @@ Interações dos usuários com o sistema.
  
   - **Extensões:**
   - 
-### 3.8 Caso de Uso VIII – Lista de Títulos
+### 3.9 Caso de Uso VIII – Lista de Títulos
   - **Nível:** 
   - **Atores primários:** 
   - **Interessados:**
@@ -228,7 +228,7 @@ Interações dos usuários com o sistema.
  
   - **Extensões:**
 
-### 3.9 Caso de Uso VII – Locação do Título
+### 3.10 Caso de Uso VII – Locação do Título
  - **Nível:** 
  - **Atores primários:** 
  - **Interessados:** 
@@ -261,5 +261,5 @@ Interações dos usuários com o sistema.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NDAxMDI3XX0=
+eyJoaXN0b3J5IjpbLTM5OTk3MTExOF19
 -->
