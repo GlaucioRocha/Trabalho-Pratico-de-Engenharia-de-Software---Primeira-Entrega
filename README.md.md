@@ -75,10 +75,10 @@ Interações dos usuários com o sistema.
  - **Interessados:** Administrador e Usuário
 	- **Administrador:** Realização de Cadastro corretamente ao banco de dados.
  - **Pré-condições:**
- - **Garantia de sucesso:** Filmes cadastrados corretamente ao banco de dados. 
+ - **Garantia de sucesso:** Títulos cadastrados corretamente ao banco de dados. 
  - **Cenário de sucesso principal:**
 	 1. Usuário tem acesso a página web;
-	 2. Usuário acessa a opção Cadastrar Filme ; 
+	 2. Usuário acessa a opção Cadastrar Título ; 
 	 3. Usuário preenche os campos do formulário de cadastro;
 	 4. Usuário Finaliza o cadastro;
 	 5. Mensagem confirmando o cadastro.
@@ -168,6 +168,19 @@ Interações dos usuários com o sistema.
         - Informações novamente solicitadas.
     - Passo 4:  Usuário enexistente;
 	    - Mensagem informando que usuário não existe.
+	    - 
+### 3.6 Caso de Uso VIII – Controlar Gênero
+  - **Nível:** 
+  - **Atores primários:** 
+  - **Interessados:**
+    - **Administrador:**
+    - **Cliente:** 
+  - **Pré-condições:** 
+   - **Garantias de sucesso:** 
+      - **Cenário de sucesso principal:**
+ 
+  - **Extensões:**
+  - 
 
 ### 3.6 Caso de Uso VI – Logar
   - **Nível:** Administrador ou Usuário
@@ -248,5 +261,5 @@ Interações dos usuários com o sistema.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE3MjYxMDQwXX0=
+eyJoaXN0b3J5IjpbLTU2NDAxMDI3XX0=
 -->
