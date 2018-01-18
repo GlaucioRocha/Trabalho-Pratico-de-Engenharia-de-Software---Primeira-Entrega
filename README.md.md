@@ -215,7 +215,6 @@ Interações dos usuários com o sistema.
  
   - **Extensões:**
 
-
 ### 3.9 Caso de Uso VII – Locação do Título
  - **Nível:** 
  - **Atores primários:** 
@@ -249,5 +248,5 @@ Interações dos usuários com o sistema.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjQyOTYyNjBdfQ==
+eyJoaXN0b3J5IjpbLTQ2MDM2NDQwMl19
 -->
