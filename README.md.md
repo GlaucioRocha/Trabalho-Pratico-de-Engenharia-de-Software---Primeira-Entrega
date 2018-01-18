@@ -12,7 +12,7 @@ Este documento visa os clientes e desenvolvedores envolvidos na criação do sis
 
 ## 1.2. Escopo da Aplicação
 
-Nossa proposta está em trazer um produto que visa considerar todos os aspectos importantes de mercado e entregar coesão e integridade para o gerenciamento comercial de locação de filmes, automatizando processos e entregando um sistema ideal para a locação de filmes de forma simplificada e intuitiva,  foi criado um site utilizando PHP, interligado ao banco de dados que será empregado para utilização dos usuários. 
+Nossa proposta está em trazer um produto que visa considerar todos os aspectos importantes de mercado e entregar coesão e integridade para o gerenciamento comercial de locação de filmes, automatizando processos e entregando um sistema ideal para a locação de filmes de forma simplificada e intuitiva,  foi criado um site utilizando PHP, interligado ao banco de dados.
 
 ~~O ambiente comercial atual requer formas práticas, funcionais e confiáves quando se trata de entregar um produto ou serviço idependente do ramo em que o mesmo é utilizado.~~ 
 ## 2. Requisitos
@@ -223,5 +223,5 @@ Interações dos usuários com o sistema.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTczODQ3MjAwXX0=
+eyJoaXN0b3J5IjpbMTYwODAxNTg1OF19
 -->
