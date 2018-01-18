@@ -190,7 +190,33 @@ Interações dos usuários com o sistema.
         - Autentificação não é realizada;
         - Notificação de erro ao Usuário;
         - Informações novamente solicitadas.
-### 3.7 Caso de Uso VII – Locação do Título
+        - 
+### 3.7 Caso de Uso VIII – Lista de Clientes
+  - **Nível:** 
+  - **Atores primários:** 
+  - **Interessados:**
+    - **Administrador:**
+    - **Cliente:** 
+  - **Pré-condições:** 
+   - **Garantias de sucesso:** 
+      - **Cenário de sucesso principal:**
+ 
+  - **Extensões:**
+  - 
+### 3.8 Caso de Uso VIII – Lista de Títulos
+  - **Nível:** 
+  - **Atores primários:** 
+  - **Interessados:**
+    - **Administrador:**
+    - **Cliente:** 
+  - **Pré-condições:** 
+   - **Garantias de sucesso:** 
+      - **Cenário de sucesso principal:**
+ 
+  - **Extensões:**
+
+
+### 3.9 Caso de Uso VII – Locação do Título
  - **Nível:** 
  - **Atores primários:** 
  - **Interessados:** 
@@ -223,5 +249,5 @@ Interações dos usuários com o sistema.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MjM0OTUyNl19
+eyJoaXN0b3J5IjpbLTE4NjQyOTYyNjBdfQ==
 -->
