@@ -37,7 +37,7 @@ Nossa proposta está em trazer um produto que visa considerar todos os aspectos 
 |RF-13(1)          |Cadastro Título|Cadastro do Título| Essencial
 |RF-14(1)           |Alterar Título| Modificar cadastro do Título | Essencial
 |RF-15(1)           |Excluir Título | Remover Cadastro do Título  | Essencial
-|RF-16(1)         ||-- is en-dash, --- is em-dash|
+|RF-16(1)         |Lista Cliente| Listar Clientes Cadastrados
 |Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
 |Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
 |Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
@@ -223,5 +223,5 @@ Interações dos usuários com o sistema.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzQ1NjM3NDNdfQ==
+eyJoaXN0b3J5IjpbLTIwMDg0MjQ3ODNdfQ==
 -->
