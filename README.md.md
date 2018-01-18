@@ -212,63 +212,9 @@ Interações dos usuários com o sistema.
  
   - **Extensões:**
 
-## 7 Classes
-Nesta seção são apresentadas as classes que integram a aplicação, bem como um
-diagrama para cada e um diagrama de classes onde mostra as relações entre elas.
-
-### 7.1 Usuário
-  Classe genérica para compartilhar atributos em comum entre as subclasses Administrador e Cliente.
-  - **Administrador:** Usuário capaz de inserir, remover e atualizar Cliente e Produtos, bem
-  como adicionar, editar e remover todas as categorias do sistema. Tem todos os privilégios do sistema.
-  - **Cliente:** Usuário capaz fazer cadastro, visualizar produtos e fazer compra dos mesmos.
-
-### 7.4  Compras
-  A classe Compras é responsável por agrupar diferentes produtos e suas devidas características, como por exemplo o preço.
-  - **Cadastrar Produtos:** A classe Cadastrar Produtos é responsável por adicionar produtos ao banco de dados, sendo o único que pode atualizar é o administrador.
-  - **Cadastrar Cliente:** A classe Cadastrar Clientes é responsável por adicionar clientes ao banco de dados, sendo acessado por todos os níveis.
-
-### 7.5 Dicas 
-  A classe Dicas fornece dicas de como se alimentar de forma saudável, como incluir tais alimentos na rotina alimentar, e como substituir alimentos gordurosos e calóricos por alimentos saudáveis, sendo acessada por todos os níveis.
-
-## 8 Banco de Dados
-
-### 8.1 Diagrama de classes 
-  ![Diagrama de Classes](Diagramas/Diagrama1.png)
-### 8.2 Diagrama Entidade Relacionamento
-  ![Diagrama Entidade Relacionamento](Diagramas/Diagrama2.png)
-
-## 9 Protótipos
-Foram criados protótipos das principais partes do site: área de contato, login, dicas e home page. Essas duas últimas são praticamente idênticas, já que a ideia de visualização do catálogo ou de posts sobre dicas de saúde é praticamente mesma.
-
-Abaixo seguem os links para cada página, todos os protótipos  e seus códigos podem ser acessados [aqui](Prototipos).
-
-  - [Login](Prototipos/Login.html)
-  - [Contato](Prototipos/contato.html)
-  - [Dicas](Prototipos/Dicas.html)
-  - [Home Page](Prototipos/index.html)
-
-## 10 Cronograma
-O cronograma abaixo mostra o planejamento do projeto entre os meses de Junho e Julho.
-
-|           | Documentação | Pesquisa | Implementação | Testes |
-|:---------:|:------------:|:--------:|:-------------:|:------:|
-|  *Semana 1* |       X      |     X    |       X       |    X   |
-|  *Semana 2* |       X      |     X    |               |        |
-|  *Semana 3* |       X      |     X    |               |        |
-|  *Semana 4* |       X      |     X    |       X       |        |
-|  *Semana 5* |       X      |     X    |       X       |    X   |
-|  *Semana 6* |       X      |     X    |       X       |        |
-|  *Semana 7* |       X      |     X    |       X       |        |
-|  *Semana 8* |       X      |     X    |       X       |        |
-|  *Semana 9* |       X      |     X    |       X       |    X   |
-| *Semana 10* |       X      |     X    |       X       |    X   |
 
 ## 11 Referências
-  - [Shop Homepage Template](http://startbootstrap.com/template-overviews/shop-homepage/)
-  - [Loja Digital Nutri](https://www.facebook.com/Loja-Digital-Nutri-892444520871747)
-  - [Dia Diagram Editor](http://dia-installer.de/)
-  - [Ponto Natural Shop](http://pontonaturalshop.com.br)
-  - [Laravel Framework](https://laravel.com/)
+  - [
 
 
 
@@ -277,5 +223,5 @@ O cronograma abaixo mostra o planejamento do projeto entre os meses de Junho e J
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NzY4MTE3MF19
+eyJoaXN0b3J5IjpbODg3MTM0Mjk0XX0=
 -->
