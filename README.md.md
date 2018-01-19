@@ -284,7 +284,7 @@ Interações dos usuários com o sistema.
         - Atentificação não é realizada;
         - Notificação de erro ao Usuário;
         - Informações novamente solicitadas.     
-        - 
+      
   #### 3.1 Caso de Uso I – Lista Cliente
   - **Nível:** Administrador ou Usuário
   - **Atores primários:** Administrador e Usuário 
@@ -362,5 +362,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjkyMzc5ODRdfQ==
+eyJoaXN0b3J5IjpbLTM1NDAyNDA0NV19
 -->
