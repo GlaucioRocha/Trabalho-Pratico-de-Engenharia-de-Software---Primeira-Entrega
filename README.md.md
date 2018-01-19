@@ -36,12 +36,7 @@
 **Sumário**
 1. [           Introdução](#id1)
 2. [Segundo apartado](#id2)
-<div id='id1' />
-## Primer apartado
-Texto del primer apartado
-<div id='id2' />
-## Segundo apartado
-Texto del segundo apartado
+
 
 ## 1. Introdução	
 
@@ -288,5 +283,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTkxNjYwN119
+eyJoaXN0b3J5IjpbNjMyNzg3Mjc2XX0=
 -->
