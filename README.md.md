@@ -4,7 +4,7 @@
 ## Locavideo: Análise de Requisitos
 
 
-	Requisitos Ge
+	
 
 
 
@@ -259,5 +259,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzUyOTU4NzNdfQ==
+eyJoaXN0b3J5IjpbLTgzMDg0Njk2NV19
 -->
