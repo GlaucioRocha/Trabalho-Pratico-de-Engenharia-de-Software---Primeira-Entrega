@@ -39,13 +39,9 @@ Texto del segundo apartado
 
 Este documento visa os clientes e desenvolvedores envolvidos na criação do sistema denominado LocaVídeo. Objetiva demonstrar todos os processos e serviços que o envolvem, incluindo funcionalidades e restrições com o intuito de auxiliar o processo de desenvolvimento do mesmo. O presente documento demonstra todos os requisitos funcionais e não funcionais.
 
-~~Objetivando automatizar o sistema de locação de filmes desenvolvemos o software LocaVídeo que busca abranger todos os aspectos que envolvem o empréstimo de filmes. Possibilitando o gerenciamento de aluguel de filmes que irá suprir as necessidades, permitindo cadastros de Clientes, Catálogo de Filmes, Tela de Login, registros de empréstimo e devolução.~~ 
-
 ### 1.2. Escopo da Aplicação
 
 Nossa proposta está em trazer um produto que visa considerar todos os aspectos importantes de mercado e entregar coesão e integridade para o gerenciamento comercial de locação de filmes, automatizando processos e entregando um sistema ideal para a locação de filmes de forma simplificada e intuitiva,  foi criado um site utilizando PHP, interligado ao banco de dados.
-
-~~O ambiente comercial atual requer formas práticas, funcionais e confiáves quando se trata de entregar um produto ou serviço idependente do ramo em que o mesmo é utilizado.~~ 
 
 <div id='id1' />
 
@@ -282,5 +278,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTA1MTA3OTFdfQ==
+eyJoaXN0b3J5IjpbLTE5MTAyNDMxNTldfQ==
 -->
