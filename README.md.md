@@ -371,14 +371,14 @@ Interações dos usuários com o sistema.
   - **Atores primários:** Administrador e Usuário 
   - **Interessados:** Administrador e Usuário
     - **Administrador:** Alterar valor desconto de Título.
-    - **Usuário:** Alterar valor desconto d Título.
+    - **Usuário:** Alterar valor desconto de Título.
   - **Pré-condições:** ?
-  - **Garantias de sucesso:** Registrar alteração valor locação de Título no sistema.
+  - **Garantias de sucesso:** Registrar alteração valor de desconto do Título no sistema.
   - **Cenário de sucesso principal:**
 	1. Usuário tem acesso á página de Login;
 	2. Usuário informa Login e senha;
 	3. Usuário acessa a opção Preço e Desconto;
-	4. Usuário escolhe a opção Alterar Preço na caixa de seleção;
+	4. Usuário escolhe a opção Alterar Des na caixa de seleção;
 	5. Usuário altera os campos do formulário;
 	6. Usuário confirma alteração.
   - **Extensões:** 
@@ -400,5 +400,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NzQyMjE1NF19
+eyJoaXN0b3J5IjpbODE4NTczNjQ2XX0=
 -->
