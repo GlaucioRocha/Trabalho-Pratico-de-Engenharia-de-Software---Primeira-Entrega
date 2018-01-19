@@ -236,9 +236,7 @@ Interações dos usuários com o sistema.
         - Atentificação não é realizada;
         - Notificação de erro ao Usuário;
         - Informações novamente solicitadas.
-    - Passo 4:  Usuário enexistente;
-	    - Mensagem informando que usuário não existe. 
-
+  
 #### 3.7 Caso de Uso VI – Logar
   - **Nível:** Administrador ou Usuário
   - **Atores primários:** Administrador, Usuário
@@ -299,5 +297,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MjYyMTg1OF19
+eyJoaXN0b3J5IjpbLTIxMzAwOTEzNF19
 -->
