@@ -357,9 +357,9 @@ Interações dos usuários com o sistema.
 	1. Usuário tem acesso á página de Login;
 	2. Usuário informa Login e senha;
 	3. Usuário acessa a opção Preço e Desconto;
-	4. Usuário escolhe a opção Incluir Preço na caixa de seleção;
-	5. Usuário preenche os campos do formulário.
-	6. Usuário confirma lançamento.
+	4. Usuário escolhe a opção Alterar Preço na caixa de seleção;
+	5. Usuário altera os campos do formulário.
+	6. Usuário confirma alteração
   - **Extensões:** 
      - Passo 2: Usuário ou senha incorretos:
         - Atentificação não é realizada;
@@ -379,5 +379,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5Nzc0OTYyMF19
+eyJoaXN0b3J5IjpbLTExODIxMzM1NTRdfQ==
 -->
