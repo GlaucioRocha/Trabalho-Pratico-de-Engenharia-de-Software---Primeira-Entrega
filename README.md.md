@@ -326,10 +326,10 @@ Interações dos usuários com o sistema.
   - **Nível:** Administrador ou Usuário
   - **Atores primários:** Administrador e Usuário 
   - **Interessados:** Administrador e Usuário
-    - **Administrador:** Lançar .
-    - **Usuário:** Listar Títulos cadastrados no sistema.
+    - **Administrador:** Lançar valor locação de Título.
+    - **Usuário:** Lançar valor locação de Título.
   - **Pré-condições:** ?
-  - **Garantias de sucesso:** Listar Títulos cadastrados no sistema.
+  - **Garantias de sucesso:** Registrar valor .
   - **Cenário de sucesso principal:**
 	1. Usuário tem acesso á página de Login;
 	2. Usuário acessa a opção de Lista de Filmes;
@@ -353,5 +353,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNTgzNzMzNF19
+eyJoaXN0b3J5IjpbLTEwNzYxODE2NTRdfQ==
 -->
