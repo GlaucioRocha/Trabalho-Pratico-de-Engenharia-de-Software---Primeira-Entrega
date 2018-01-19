@@ -334,7 +334,7 @@ Interações dos usuários com o sistema.
 	1. Usuário tem acesso á página de Login;
 	2. Usuário acessa a opção Preço e Desconto;
 	3. Usuário escolhe a opção Incluir Preço na caixa de seleção
-	4. Usuár
+	4. Usuário preenche cadastros
   - **Extensões:** 
      - Passo 2: Usuário ou senha incorretos:
         - Atentificação não é realizada;
@@ -354,5 +354,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MzA3ODQyOV19
+eyJoaXN0b3J5IjpbMTg0NTEzMTg1N119
 -->
