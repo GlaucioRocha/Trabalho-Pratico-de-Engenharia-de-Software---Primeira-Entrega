@@ -358,8 +358,29 @@ Interações dos usuários com o sistema.
 	2. Usuário informa Login e senha;
 	3. Usuário acessa a opção Preço e Desconto;
 	4. Usuário escolhe a opção Alterar Preço na caixa de seleção;
-	5. Usuário altera os campos do formulário.
-	6. Usuário confirma alteração
+	5. Usuário altera os campos do formulário;
+	6. Usuário confirma alteração.
+  - **Extensões:** 
+     - Passo 2: Usuário ou senha incorretos:
+        - Atentificação não é realizada;
+        - Notificação de erro ao Usuário;
+        - Informações novamente solicitadas.  
+        
+#### 3.1 Caso de Uso I – Alterar Desconto
+  - **Nível:** Administrador ou Usuário
+  - **Atores primários:** Administrador e Usuário 
+  - **Interessados:** Administrador e Usuário
+    - **Administrador:** Alterar valor locação de Título.
+    - **Usuário:** Alterar valor locação de Título.
+  - **Pré-condições:** ?
+  - **Garantias de sucesso:** Registrar alteração valor locação de Título no sistema.
+  - **Cenário de sucesso principal:**
+	1. Usuário tem acesso á página de Login;
+	2. Usuário informa Login e senha;
+	3. Usuário acessa a opção Preço e Desconto;
+	4. Usuário escolhe a opção Alterar Preço na caixa de seleção;
+	5. Usuário altera os campos do formulário;
+	6. Usuário confirma alteração.
   - **Extensões:** 
      - Passo 2: Usuário ou senha incorretos:
         - Atentificação não é realizada;
@@ -379,5 +400,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODIxMzM1NTRdfQ==
+eyJoaXN0b3J5IjpbNjI5NDY3MjE1XX0=
 -->
