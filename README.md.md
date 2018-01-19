@@ -64,7 +64,7 @@ Nossa proposta está em trazer um produto que visa considerar todos os aspectos 
 |RF-02(1)          | Pagar Título         |Quitação.          | Essencial
 |RF-03(1)  	   |Devolver Título         	   |Devolução.        		 | Essencial
 |RF-04(1)          |Cadastro Administrador|Cadastro de Usuário Admistrador do Sistema	| Essencial
-|RF-05(1)          |Alterar Administrador|Modificar cadatro do admi	nistrador| Essencial
+|RF-05(1)          |Alterar Administrador|Modificar cadastro do administrador| Essencial
 |RF-06(1)          |Alterar Recupera Senha do Administrador|Recupera Senha do Administrador caso ele Perca| Essencial
 |RF-07(1)          |Exclui Administrador| Exclui um Administrador do Sistema| Essencial
 |RF-08(1)          | Cadastro Usuário |Cadastro de Usuário| Essencial
@@ -101,7 +101,7 @@ Interações dos usuários com o sistema.
   - **Pré-condições:** ?
   - **Garantias de sucesso:** Usuário e Clientes criados no sistema. 
   - **Cenário de sucesso principal:**
-	1. Usuário tem acesso á página de Login;
+	1. Usuário tem acesso à página de Login;
 	2. Usuário acessa a opção de Lista de Clientes;
 	3. Usuário pressiona o botão Cadastrar Clientes
 	4. Usuário preenche os campos do formulário de cadastro ;
@@ -149,7 +149,7 @@ Interações dos usuários com o sistema.
       8. Cadastro do Cliente é atualizado.
   - **Extensões:** 
     - Passo 3: Usuário ou senha incorretos:
-        - Atentificação não é realizada;
+        - Autentificação não é realizada;
         - Notificação de erro ao Usuário;
         - Informações novamente solicitadas;
     - Passos 5 a 6: Preenchidos indevidamente:
@@ -176,7 +176,7 @@ Interações dos usuários com o sistema.
     8. Cadastro do Filme é atualizado.
  - **Extensões:**
     - Passo 3: Usuário ou senha incorretos:
-        - Atentificação não é realizada;
+        - Autentificação não é realizada;
         - Notificação de erro ao Usuário;
         - Informações novamente solicitadas;
     - Passos 5 a 6:  Preenchidos indevidamente:
@@ -197,7 +197,7 @@ Interações dos usuários com o sistema.
  - **Cenário de sucesso principal:**
     1. Administrador tem acesso a página de Login;
     2. Administrador tem Login autenticado;
-    3. Adminstrador acessa a opção Lista de Clientes;
+    3. Administrador acessa a opção Lista de Clientes;
     4. Administrador busca usuário à ser removido;
     5. Administrador escolhe a opção remover;
     6. Administrador confirma a remoção do usuário;
@@ -205,10 +205,10 @@ Interações dos usuários com o sistema.
     8. Mensagem confirmando a remoção.
  - **Extensões:** 
     - Passo 2: Usuário ou senha incorretos:
-        - Atentificação não é realizada;
+        - Autentificação não é realizada;
         - Notificação de erro ao Usuário;
         - Informações novamente solicitadas.
-    - Passo 4:  Usuário enexistente;
+    - Passo 4:  Usuário inexistente;
 	    - Mensagem informando que usuário não existe.
 	    - 
 #### 3.6 Caso de Uso V – Cadastrar Gênero
@@ -234,7 +234,7 @@ Interações dos usuários com o sistema.
     8. Mensagem confirmando a inclusão.
  - **Extensões:** 
     - Passo 2: Usuário ou senha incorretos:
-        - Atentificação não é realizada;
+        - Autentificação não é realizada;
         - Notificação de erro ao Usuário;
         - Informações novamente solicitadas.
         - 
@@ -259,7 +259,7 @@ Interações dos usuários com o sistema.
     6. Mensagem confirmando a inclusão;
  - **Extensões:** 
     - Passo 2: Usuário ou senha incorretos:
-        - Atentificação não é realizada;
+        - Autentificação não é realizada;
         - Notificação de erro ao Usuário;
         - Informações novamente solicitadas.
         - 
@@ -281,7 +281,7 @@ Interações dos usuários com o sistema.
       4. Usuário redirecionado para a página principal do sistema.
  - **Extensões:** 
     - Passo 2: Usuário ou senha incorretos:
-        - Atentificação não é realizada;
+        - Autentificação não é realizada;
         - Notificação de erro ao Usuário;
         - Informações novamente solicitadas.     
       
@@ -294,13 +294,13 @@ Interações dos usuários com o sistema.
   - **Pré-condições:** ?
   - **Garantias de sucesso:** Listar Clientes cadastrados no sistema.
   - **Cenário de sucesso principal:**
-	1. Usuário tem acesso á página de Login;
+	1. Usuário tem acesso à página de Login;
 	2. Usuário informa Login e senha;
 	3. Usuário acessa a opção de Lista de Clientes;
 	4. Usuário tem acesso a lista de Clientes.
   - **Extensões:** 
      - Passo 2: Usuário ou senha incorretos:
-        - Atentificação não é realizada;
+        - Autentificação não é realizada;
         - Notificação de erro ao Usuário;
         - Informações novamente solicitadas.  
    
@@ -314,13 +314,13 @@ Interações dos usuários com o sistema.
   - **Pré-condições:** ?
   - **Garantias de sucesso:** Listar Títulos cadastrados no sistema.
   - **Cenário de sucesso principal:**
-	1. Usuário tem acesso á página de Login;
+	1. Usuário tem acesso à página de Login;
 	2. Usuário informa Login e senha;
 	3. Usuário acessa a opção de Lista de Filmes;
 	4. Usuário tem acesso a lista de Filmes.
   - **Extensões:** 
      - Passo 2: Usuário ou senha incorretos:
-        - Atentificação não é realizada;
+        - Autentificação não é realizada;
         - Notificação de erro ao Usuário;
         - Informações novamente solicitadas.  
         
@@ -333,7 +333,7 @@ Interações dos usuários com o sistema.
   - **Pré-condições:** ?
   - **Garantias de sucesso:** Registrar valor locação de Título no sistema.
   - **Cenário de sucesso principal:**
-	1. Usuário tem acesso á página de Login;
+	1. Usuário tem acesso à página de Login;
 	2. Usuário informa Login e senha;
 	3. Usuário acessa a opção Preço e Desconto;
 	4. Usuário escolhe a opção Incluir Preço na caixa de seleção;
@@ -341,7 +341,7 @@ Interações dos usuários com o sistema.
 	6. Usuário confirma lançamento.
   - **Extensões:** 
      - Passo 2: Usuário ou senha incorretos:
-        - Atentificação não é realizada;
+        - Autentificação não é realizada;
         - Notificação de erro ao Usuário;
         - Informações novamente solicitadas.  
         - 
@@ -354,7 +354,7 @@ Interações dos usuários com o sistema.
   - **Pré-condições:** ?
   - **Garantias de sucesso:** Registrar alteração valor locação de Título no sistema.
   - **Cenário de sucesso principal:**
-	1. Usuário tem acesso á página de Login;
+	1. Usuário tem acesso à página de Login;
 	2. Usuário informa Login e senha;
 	3. Usuário acessa a opção Preço e Desconto;
 	4. Usuário escolhe a opção Alterar Preço na caixa de seleção;
@@ -362,7 +362,7 @@ Interações dos usuários com o sistema.
 	6. Usuário confirma alteração.
   - **Extensões:** 
      - Passo 2: Usuário ou senha incorretos:
-        - Atentificação não é realizada;
+        - Autentificação não é realizada;
         - Notificação de erro ao Usuário;
         - Informações novamente solicitadas.  
         
@@ -373,17 +373,17 @@ Interações dos usuários com o sistema.
     - **Administrador:** Alterar valor desconto de Título.
     - **Usuário:** Alterar valor desconto de Título.
   - **Pré-condições:** ?
-  - **Garantias de sucesso:** Registrar alteração valor de desconto do Título no sistema.
+  - **Garantias de sucesso:** Registrar alteração valor locação de Título no sistema.
   - **Cenário de sucesso principal:**
-	1. Usuário tem acesso á página de Login;
+	1. Usuário tem acesso à página de Login;
 	2. Usuário informa Login e senha;
 	3. Usuário acessa a opção Preço e Desconto;
-	4. Usuário escolhe a opção Alterar Desconto na caixa de seleção;
+	4. Usuário escolhe a opção Alterar Preço na caixa de seleção;
 	5. Usuário altera os campos do formulário;
 	6. Usuário confirma alteração.
   - **Extensões:** 
      - Passo 2: Usuário ou senha incorretos:
-        - Atentificação não é realizada;
+        - Autentificação não é realizada;
         - Notificação de erro ao Usuário;
         - Informações novamente solicitadas.  
 #### 3.10 Caso de Uso VII – Locação do Título
@@ -400,5 +400,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0ODY4OTgyN119
+eyJoaXN0b3J5IjpbLTc3NzQyMjE1NF19
 -->
