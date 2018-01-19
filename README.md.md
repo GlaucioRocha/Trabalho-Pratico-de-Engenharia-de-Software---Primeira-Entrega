@@ -15,8 +15,8 @@
 |15/12/2017 	   |1.2	         	   |Criação do Índice      		 | Equipe
 |03/01/2018          |1.3|Pequenas correções| Equipe
 |04/01/2018         | 1.4        |Atualização Requisitos          | Equipe
-|05/01/2018 	   |1.3	         	   |Criação do Índice      		 | Equipe
-|06/01/2018          |1.3|Pequenas correções| Equipe
+|05/01/2018 	   |1.5	         	   |Atualização Requisitos   		 | Equipe
+|06/01/2018          |1.6|Atualização Requisitos   | Equipe
 
 ### 1. Introdução	
 
@@ -262,5 +262,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTkwMDc0MzJdfQ==
+eyJoaXN0b3J5IjpbMTkwMzIyNzY1N119
 -->
