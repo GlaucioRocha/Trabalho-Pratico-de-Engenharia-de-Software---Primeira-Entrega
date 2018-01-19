@@ -389,7 +389,7 @@ Interações dos usuários com o sistema.
     - **Administrador:** Alterar valor desconto de Título.
     - **Usuário:** Alterar valor desconto de Título.
   - **Pré-condições:** 
-  - Usuário tem acesso a página de Login;
+    - Usuário tem acesso a página de Login;
     - Usuário com Login autorizado
   - **Garantias de sucesso:** Registrar alteração valor locação de Título no sistema.
   - **Cenário de sucesso principal:**
@@ -421,5 +421,5 @@ Interações dos usuários com o sistema.
 eyJoaXN0b3J5IjpbLTc3NzQyMjE1NF19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzc5MDEyNjFdfQ==
+eyJoaXN0b3J5IjpbMjgzNDM2NzIzXX0=
 -->
