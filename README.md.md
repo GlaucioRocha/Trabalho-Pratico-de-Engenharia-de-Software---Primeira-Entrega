@@ -46,6 +46,7 @@ Nossa proposta está em trazer um produto que visa considerar todos os aspectos 
 |RF-20(1)          |Total de Título cadastrados| Mostra o total de Títulos cadastrados|Essencial
 
 
+	Requisitos Não-funcianais
 
 
 ### 3. Detalhamento dos Casos de Uso
@@ -241,5 +242,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NTY5OTk5N119
+eyJoaXN0b3J5IjpbLTQxMzY5MTQ2MV19
 -->
