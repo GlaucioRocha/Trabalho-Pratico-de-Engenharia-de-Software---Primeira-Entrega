@@ -289,10 +289,10 @@ Interações dos usuários com o sistema.
   - **Nível:** Administrador ou Usuário
   - **Atores primários:** Administrador e Usuário 
   - **Interessados:** Administrador e Usuário
-    - **Administrador:** Listar Clientes castrados no sistema
-    - **Usuário:** Efetuação de cadastro do Usuário para ter acesso ao sistema.
+    - **Administrador:** Listar Clientes cadastrados no sistema.
+    - **Usuário:** Listar Clientes cadastrados no sistema.
   - **Pré-condições:** ?
-  - **Garantias de sucesso:** Usuário e Clientes criados no sistema. 
+  - **Garantias de sucesso:** Listar Clientes cadastrados no sistema.
   - **Cenário de sucesso principal:**
 	1. Usuário tem acesso á página de Login;
 	2. Usuário acessa a opção de Lista de Clientes;
@@ -362,5 +362,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzODE4MTIzNF19
+eyJoaXN0b3J5IjpbLTEzNjkyMzc5ODRdfQ==
 -->
