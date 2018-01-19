@@ -315,7 +315,7 @@ Interações dos usuários com o sistema.
   - **Garantias de sucesso:** Listar Títulos cadastrados no sistema.
   - **Cenário de sucesso principal:**
 	1. Usuário tem acesso á página de Login;
-	2. 
+	2. Usuário informa Login e senha;
 	3. Usuário acessa a opção de Lista de Filmes;
 	4. Usuário tem acesso a lista de Filmes.
   - **Extensões:** 
@@ -358,5 +358,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MzY4OTE3Ml19
+eyJoaXN0b3J5IjpbLTUyNDUxMzExOF19
 -->
