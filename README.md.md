@@ -21,7 +21,7 @@
 |09/01/2018          |1.8|Atualização Requisitos   | Flávio Gonçalves
 |10/01/2018          |1.9|Atualização Requisitos   | Édlon Sá
 |13/01/2018          |2.0|Atualização Requisitos Segundo Release  | Édlon Sá
-|15/01/2018          |2.1|Pequenos Ajustes | Equipe
+|15/01/2018          |2.1|Pequenos Ajustes | Lucas Lima
 
 ### 1. Introdução	
 
@@ -267,5 +267,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NTU5ODgyMV19
+eyJoaXN0b3J5IjpbLTQxOTg3ODU0OV19
 -->
