@@ -120,7 +120,7 @@ Interações dos usuários com o sistema.
  - **Cenário de sucesso principal:**
 	 1. Usuário tem acesso a página web;
 	 2. Usuário acessa a opção Cadastrar Título ; 
-	 3. Usuário preenche os campos do formulário de cadastro;
+	 3. Usuário preenche os campos do formulário de cadastro, seleciona o gênero e seleciona o arquivo de Imagem;
 	 4. Usuário Finaliza o cadastro;
 	 5. Mensagem confirmando o cadastro.
  - **Extensões:** 
@@ -283,5 +283,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA4MzI4MTg3XX0=
+eyJoaXN0b3J5IjpbMjExMDI3NDUwNV19
 -->
