@@ -4,7 +4,7 @@
 ## Locavideo: Análise de Requisitos
 
 
-	Histórico 
+	Histórico de 
 
 
 
@@ -259,5 +259,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMjIxMzc2MV19
+eyJoaXN0b3J5IjpbMTQyNDIwOTYyNl19
 -->
