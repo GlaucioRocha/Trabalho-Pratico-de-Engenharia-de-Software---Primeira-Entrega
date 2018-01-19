@@ -224,9 +224,9 @@ Interações dos usuários com o sistema.
     - Mensagem de confirmando a exclusão;
  - **Cenário de sucesso principal:**
     1. Usuário tem acesso a página de Login;
-    2. Usuárior tem Login autenticado;
+    2. Usuário tem Login autenticado;
     3. Usuário acessa a opção Controle Gênero;
-    4. Administrador busca usuário à ser removido;
+    4. Usuário ;
     5. Administrador escolhe a opção remover;
     6. Administrador confirma a remoção do usuário;
     7. Usuário é removido, banco de dados atualizado;
@@ -299,5 +299,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEyNTMzNjM0XX0=
+eyJoaXN0b3J5IjpbOTU3NTU1ODk0XX0=
 -->
