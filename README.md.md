@@ -285,7 +285,7 @@ Interações dos usuários com o sistema.
         - Notificação de erro ao Usuário;
         - Informações novamente solicitadas.     
       
-  #### 3.9 Caso de Uso I – Lista Cliente
+  #### 3.9 Caso de Uso IX – Lista Cliente
   - **Nível:** Administrador ou Usuário
   - **Atores primários:** Administrador e Usuário 
   - **Interessados:** Administrador e Usuário
@@ -305,7 +305,7 @@ Interações dos usuários com o sistema.
         - Informações novamente solicitadas.  
    
 
-  #### 3.1 Caso de Uso I – Lista Títulos
+  #### 3.10 Caso de Uso X – Lista Títulos
   - **Nível:** Administrador ou Usuário
   - **Atores primários:** Administrador e Usuário 
   - **Interessados:** Administrador e Usuário
@@ -324,7 +324,7 @@ Interações dos usuários com o sistema.
         - Notificação de erro ao Usuário;
         - Informações novamente solicitadas.  
         
-#### 3.1 Caso de Uso I – Lançar Preço
+#### 3.11 Caso de Uso XI – Lançar Preço
   - **Nível:** Administrador ou Usuário
   - **Atores primários:** Administrador e Usuário 
   - **Interessados:** Administrador e Usuário
@@ -345,7 +345,7 @@ Interações dos usuários com o sistema.
         - Notificação de erro ao Usuário;
         - Informações novamente solicitadas.  
         - 
-#### 3.1 Caso de Uso I – Alterar Preço
+#### 3.12 Caso de Uso XII – Alterar Preço
   - **Nível:** Administrador ou Usuário
   - **Atores primários:** Administrador e Usuário 
   - **Interessados:** Administrador e Usuário
@@ -366,7 +366,7 @@ Interações dos usuários com o sistema.
         - Notificação de erro ao Usuário;
         - Informações novamente solicitadas.  
         
-#### 3.1 Caso de Uso I – Alterar Desconto
+#### 3.13 Caso de Uso XIII – Alterar Desconto
   - **Nível:** Administrador ou Usuário
   - **Atores primários:** Administrador e Usuário 
   - **Interessados:** Administrador e Usuário
@@ -403,5 +403,5 @@ Interações dos usuários com o sistema.
 eyJoaXN0b3J5IjpbLTc3NzQyMjE1NF19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MjY5NjUxMF19
+eyJoaXN0b3J5IjpbMTkzNTgxNzgwXX0=
 -->
