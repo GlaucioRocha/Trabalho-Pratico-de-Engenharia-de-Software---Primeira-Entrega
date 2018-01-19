@@ -10,9 +10,6 @@
 
 
 
-<space><space>
-<space>
-
 
 ## Locavideo: Análise de Requisitos
 
@@ -291,5 +288,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjUwMTQ3MTVdfQ==
+eyJoaXN0b3J5IjpbLTE5MTkxNjYwN119
 -->
