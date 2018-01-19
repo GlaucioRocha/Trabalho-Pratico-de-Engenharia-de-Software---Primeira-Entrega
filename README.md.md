@@ -334,7 +334,28 @@ Interações dos usuários com o sistema.
   - **Garantias de sucesso:** Registrar valor locação de Título no sistema.
   - **Cenário de sucesso principal:**
 	1. Usuário tem acesso á página de Login;
-	2. 
+	2. Usuário informa Login e senha;
+	3. Usuário acessa a opção Preço e Desconto;
+	4. Usuário escolhe a opção Incluir Preço na caixa de seleção;
+	5. Usuário preenche os campos do formulário.
+	6. Usuário confirma lançamento.
+  - **Extensões:** 
+     - Passo 2: Usuário ou senha incorretos:
+        - Atentificação não é realizada;
+        - Notificação de erro ao Usuário;
+        - Informações novamente solicitadas.  
+        - 
+#### 3.1 Caso de Uso I – Alterar Preço
+  - **Nível:** Administrador ou Usuário
+  - **Atores primários:** Administrador e Usuário 
+  - **Interessados:** Administrador e Usuário
+    - **Administrador:** Alterar valor locação de Título.
+    - **Usuário:** Aletrar valor locação de Título.
+  - **Pré-condições:** ?
+  - **Garantias de sucesso:** Registrar valor locação de Título no sistema.
+  - **Cenário de sucesso principal:**
+	1. Usuário tem acesso á página de Login;
+	2. Usuário informa Login e senha;
 	3. Usuário acessa a opção Preço e Desconto;
 	4. Usuário escolhe a opção Incluir Preço na caixa de seleção;
 	5. Usuário preenche os campos do formulário.
@@ -358,5 +379,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNDUxMzExOF19
+eyJoaXN0b3J5IjpbLTE3MDYxMjA0NjZdfQ==
 -->
