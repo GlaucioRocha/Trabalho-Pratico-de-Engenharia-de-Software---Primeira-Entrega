@@ -289,7 +289,7 @@ Interações dos usuários com o sistema.
   - **Nível:** Administrador ou Usuário
   - **Atores primários:** Administrador e Usuário 
   - **Interessados:** Administrador e Usuário
-    - **Administrador:** Listar Clientes Ccdastrados no sistema
+    - **Administrador:** Listar Clientes cdastrados no sistema
     - **Usuário:** Efetuação de cadastro do Usuário para ter acesso ao sistema.
   - **Pré-condições:** ?
   - **Garantias de sucesso:** Usuário e Clientes criados no sistema. 
@@ -362,5 +362,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2Njk2NTU0OV19
+eyJoaXN0b3J5IjpbMTI0NzU5NDAxMF19
 -->
