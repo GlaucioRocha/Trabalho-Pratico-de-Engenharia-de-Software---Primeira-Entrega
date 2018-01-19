@@ -211,7 +211,8 @@ Interações dos usuários com o sistema.
 	    - Mensagem informando que usuário não existe.
 	    - 
 #### 3.6 Caso de Uso VIII – Controlar Gênero
-  - **Nível:**  Administrador ou Usuário  - **Atores primários:** Administrador ou Usuário
+  - **Nível:**  Administrador ou Usuário  
+  - - **Atores primários:** Administrador ou Usuário
   - **Interessados:**
     - **Administrador:** Cadastro do Gênero do Título
     - **Usuário:** Cadastro do Gênero do Título
@@ -225,7 +226,8 @@ Interações dos usuários com o sistema.
  - **Nível:** Administrador ou Usuário
  - **Atores primários:** Administrador ou Usuário
  - **Interessados:** 
-    - **Administrador:** Remover um usuário cadastrado.
+    Cadastro do Gênero do Título
+    - **Usuário:** Cadastro do Gênero do Título
  - **Pré-condições:** 
     - Usuário tem acesso a página de Login;
     - Usuário tem acesso de Administrador.
@@ -309,5 +311,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MTIwMDY2NV19
+eyJoaXN0b3J5IjpbLTE1NDQ5NTgxNDddfQ==
 -->
