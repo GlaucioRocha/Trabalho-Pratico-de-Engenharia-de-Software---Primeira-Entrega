@@ -210,19 +210,7 @@ Interações dos usuários com o sistema.
     - Passo 4:  Usuário enexistente;
 	    - Mensagem informando que usuário não existe.
 	    - 
-#### 3.6 Caso de Uso VIII – Controlar Gênero
-  - **Nível:**  Administrador ou Usuário  
-  - - **Atores primários:** Administrador ou Usuário
-  - **Interessados:**
-    - **Administrador:** Cadastro do Gênero do Título
-    - **Usuário:** Cadastro do Gênero do Título
-  - **Pré-condições:** Usuários com Login autorizado.
-   - **Garantias de sucesso:** 
-      - **Cenário de sucesso principal:**
- 
-  - **Extensões:**
-
-#### 3.5 Caso de Uso V – Controlar Gênero
+#### 3.6 Caso de Uso V – Controlar Gênero
  - **Nível:** Administrador ou Usuário
  - **Atores primários:** Administrador ou Usuário
  - **Interessados:** 
@@ -311,5 +299,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDQ5NzM2MTddfQ==
+eyJoaXN0b3J5IjpbLTExODQ5OTA3NDRdfQ==
 -->
