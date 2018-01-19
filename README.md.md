@@ -210,7 +210,34 @@ Interações dos usuários com o sistema.
     - Passo 4:  Usuário enexistente;
 	    - Mensagem informando que usuário não existe.
 	    - 
-#### 3.6 Caso de Uso V – Controlar Gênero
+#### 3.6 Caso de Uso V – Cadastrar Gênero
+ - **Nível:** Administrador ou Usuário
+ - **Atores primários:** Administrador ou Usuário
+ - **Interessados:** 
+    - **Administrador:**  Cadastro do Gênero do Título
+    - **Usuário:** Cadastro do Gênero do Título
+ - **Pré-condições:** 
+    - Usuário tem acesso a página de Login;
+    - Usuário com Login autorizado.
+ - **Garantias de sucesso:** 
+    - Remoção do Usuário do banco de dados. 
+    - Mensagem de confirmando a exclusão;
+ - **Cenário de sucesso principal:**
+    1. Usuário tem acesso a página de Login;
+    2. Usuário tem Login autenticado;
+    3. Usuário acessa a opção Controle Gênero;
+    4. Usuário escolhe cadastrar Gênero na caixa de Seleção ;
+    5. Usuário preenche o formulário;
+    6. Usuário pressiona botão Cadastrar Gênero
+    7. Gênero é incluído, banco de dados atualizado;
+    8. Mensagem confirmando a inclusão.
+ - **Extensões:** 
+    - Passo 2: Usuário ou senha incorretos:
+        - Atentificação não é realizada;
+        - Notificação de erro ao Usuário;
+        - Informações novamente solicitadas.
+        - 
+#### 3.7 Caso de Uso V – Cadastrar Gênero
  - **Nível:** Administrador ou Usuário
  - **Atores primários:** Administrador ou Usuário
  - **Interessados:** 
@@ -297,5 +324,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzAwOTEzNF19
+eyJoaXN0b3J5IjpbMTgxODk0NTY2NF19
 -->
