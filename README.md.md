@@ -87,7 +87,7 @@ Nossa proposta está em trazer um produto que visa considerar todos os aspectos 
 |RNF-03(1)  	   |Operacional         	   |Sistema deve ser Desenvolvido em PHP.        		 | Essencial
 |RF-03(2)          |Operacional|Sistema deve ser compatível com os navegadores existentes.| Essencial
 
-<div id='id3' />
+<div id='id2' />
 
 ## 3. Detalhamento dos Casos de Uso
 Interações dos usuários com o sistema.
@@ -277,10 +277,10 @@ Interações dos usuários com o sistema.
  - **Cenário de sucesso principal:**
     
  - **Extensões:** 
-
+<div id='id3' />
 
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTI1MDA2NjRdfQ==
+eyJoaXN0b3J5IjpbMjEwNDc1NDQ1NV19
 -->
