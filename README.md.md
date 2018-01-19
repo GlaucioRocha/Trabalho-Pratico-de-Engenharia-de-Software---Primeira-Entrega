@@ -12,8 +12,8 @@
 |--------------------|-------------------------------|-----------------------------|-----------------------------|
 |12/12/2017	     | 1.0           	   |Criação de Documento de Requisitos                    | Equipe
 |14/12/2017          | 1.1        |Atualização Requisitos          | Equipe
-|15/12/2017 	   |1.2	         	   |Devolução.        		 | Essencial
-|RF-04(1)          |Cadastro Administrador|Cadastro de Usuário Admistrador do Sistema	| Essencial
+|15/12/2017 	   |1.2	         	   |Criação do Índice      		 | Equipe
+|03/01/2018          |1.3|Cadastro de Usuário Admistrador do Sistema	| Essencial
 
 ### 1. Introdução	
 
@@ -259,5 +259,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NDg4Njc1Nl19
+eyJoaXN0b3J5IjpbLTEzNDI4MDE5MzNdfQ==
 -->
