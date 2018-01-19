@@ -15,10 +15,10 @@
 |15/12/2017 	   |1.2	         	   |Criação do Índice      		 | Equipe
 |03/01/2018          |1.3|Pequenas correções| Equipe
 |04/01/2018         | 1.4        |Atualização Requisitos          | Equipe
-|05/01/2018 	   |1.5	         	   |Atualização Requisitos   		 | Glaucio Rocha
-|06/01/2018          |1.6|Atualização Requisitos   | Lucas 
-|06/01/2018          |1.8|Atualização Requisitos   | Equipe
-|06/01/2018          |1.9|Atualização Requisitos   | Equipe
+|05/01/2018 	   |1.5	         	   |Atualização Requisitos   		 | Glaucio Gonçalves
+|06/01/2018          |1.6|Atualização Requisitos   | Lucas Lima
+|06/01/2018          |1.8|Atualização Requisitos   | Flávio Gonçalves
+|06/01/2018          |1.9|Atualização Requisitos   | Édlon 
 
 ### 1. Introdução	
 
@@ -264,5 +264,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NDIwMzc4NV19
+eyJoaXN0b3J5IjpbLTExMzg5MDYzNjBdfQ==
 -->
