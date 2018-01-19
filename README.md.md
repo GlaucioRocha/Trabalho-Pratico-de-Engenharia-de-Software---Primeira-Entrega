@@ -264,10 +264,10 @@ Interações dos usuários com o sistema.
         - 
 #### 3.7 Caso de Uso VI – Logar
  - **Nível:** Administrador ou Usuário
- - **Atores primários:** Administrador ou Usuário
+ - **Atores primários:** Administrador, Usuário
  - **Interessados:** 
-    - **Administrador:**  Remover Gênero do Título
-    - **Usuário:** Remover Gênero do Título
+    - **Administrador:** Autentificação no sistema.
+    - **Usuário:** Autentificação no sistema.
  - **Pré-condições:** 
     - Usuário tem acesso a página de Login;
     - Usuário com Login autorizado.
@@ -339,5 +339,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ3NDA5NzQwXX0=
+eyJoaXN0b3J5IjpbMTM3NTQ4MjQwOF19
 -->
