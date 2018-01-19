@@ -274,10 +274,15 @@ Interações dos usuários com o sistema.
  - **Garantias de sucesso:** 
     - Login na página de acesso ao sistema.
  - **Cenário de sucesso principal:**
-	  1. Usuário tem acesso a página de Login;
+      1. Usuário tem acesso a página de Login;
       2. Usuário informa Login e senha;
       3. Usuário pressiona o botão Entrar;
       4. Usuário redirecionado para a página principal do sistema.
+ - **Extensões:** 
+    - Passo 2: Usuário ou senha incorretos:
+        - Atentificação não é realizada;
+        - Notificação de erro ao Usuário;
+        - Informações novamente solicitadas.     
   
 
 #### 3.8 Caso de Uso VIII – Lista de Clientes
@@ -318,5 +323,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY1NDMxNTc5XX0=
+eyJoaXN0b3J5IjpbLTEzNDA0MjAxMThdfQ==
 -->
