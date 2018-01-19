@@ -332,8 +332,8 @@ Interações dos usuários com o sistema.
   - **Garantias de sucesso:** Registrar valor locação de Título no sistema.
   - **Cenário de sucesso principal:**
 	1. Usuário tem acesso á página de Login;
-	2. Usuário acessa a opção de Lista de Filmes;
-	3. Usuário tem acesso a lista de Filmes.
+	2. Usuário acessa a opção Preço e Desconto;
+	3. Usuário escolhe a opção Incluir Preço 
   - **Extensões:** 
      - Passo 2: Usuário ou senha incorretos:
         - Atentificação não é realizada;
@@ -353,5 +353,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODEzOTA4NDldfQ==
+eyJoaXN0b3J5IjpbMjAzNzgzNDUzOV19
 -->
