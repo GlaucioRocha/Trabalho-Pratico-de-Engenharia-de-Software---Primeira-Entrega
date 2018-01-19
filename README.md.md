@@ -253,10 +253,10 @@ Interações dos usuários com o sistema.
     1. Usuário tem acesso a página de Login;
     2. Usuário tem Login autenticado;
     3. Usuário acessa a opção Controle Gênero;
-    4. Usuário escolhe cadastrar Gênero na caixa de Seleção ;
+    4. Usuário escolhe Deletar Gênero na caixa de Seleção ;
     5. Usuário preenche o formulário;
     6. Usuário pressiona botão Cadastrar Gênero
-    7. Gênero é incluído, banco de dados atualizado;
+    7. Gênero dos Títulos é incluído, banco de dados atualizado;
     8. Mensagem confirmando a inclusão.
  - **Extensões:** 
     - Passo 2: Usuário ou senha incorretos:
@@ -324,5 +324,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNDUyMzkzNl19
+eyJoaXN0b3J5IjpbLTQ0OTE1NDQzNF19
 -->
