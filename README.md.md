@@ -321,6 +321,24 @@ Interações dos usuários com o sistema.
         - Atentificação não é realizada;
         - Notificação de erro ao Usuário;
         - Informações novamente solicitadas.  
+        
+#### 3.1 Caso de Uso I – Gerenciamento e Controle de Preços
+  - **Nível:** Administrador ou Usuário
+  - **Atores primários:** Administrador e Usuário 
+  - **Interessados:** Administrador e Usuário
+    - **Administrador:** Listar Títulos cadastrados no sistema.
+    - **Usuário:** Listar Títulos cadastrados no sistema.
+  - **Pré-condições:** ?
+  - **Garantias de sucesso:** Listar Títulos cadastrados no sistema.
+  - **Cenário de sucesso principal:**
+	1. Usuário tem acesso á página de Login;
+	2. Usuário acessa a opção de Lista de Filmes;
+	3. Usuário tem acesso a lista de Filmes.
+  - **Extensões:** 
+     - Passo 2: Usuário ou senha incorretos:
+        - Atentificação não é realizada;
+        - Notificação de erro ao Usuário;
+        - Informações novamente solicitadas.  
 #### 3.10 Caso de Uso VII – Locação do Título
  - **Nível:** 
  - **Atores primários:** 
@@ -335,5 +353,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkwNTk1NTI5XX0=
+eyJoaXN0b3J5IjpbLTE0MDI4Njk3MTldfQ==
 -->
