@@ -121,7 +121,7 @@ Interações dos usuários com o sistema.
 	 1. Usuário tem acesso a página web;
 	 2. Usuário acessa a opção Cadastrar Título ; 
 	 3. Usuário preenche os campos do formulário de cadastro, seleciona o gênero e seleciona o arquivo de Imagem;
-	 4. Usuário Finaliza o cadastro;
+	 4. Usuário Envia Dados;
 	 5. Mensagem confirmando o cadastro.
  - **Extensões:** 
     - Passos 3 a 5: Preenchimento incorreto dos campos
@@ -283,5 +283,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMDI3NDUwNV19
+eyJoaXN0b3J5IjpbLTEzNDUyODE4NzldfQ==
 -->
