@@ -220,7 +220,34 @@ Interações dos usuários com o sistema.
       - **Cenário de sucesso principal:**
  
   - **Extensões:**
-  - 
+
+#### 3.5 Caso de Uso V – Remoção de Usuário
+ - **Nível:** Administrador
+ - **Atores primários:** Administrador
+ - **Interessados:** 
+    - **Administrador:** Remover um usuário cadastrado.
+ - **Pré-condições:** 
+    - Usuário tem acesso a página de Login;
+    - Usuário tem acesso de Administrador.
+ - **Garantias de sucesso:** 
+    - Remoção do Usuário do banco de dados. 
+    - Mensagem de confirmando a exclusão;
+ - **Cenário de sucesso principal:**
+    1. Administrador tem acesso a página de Login;
+    2. Administrador tem Login autenticado;
+    3. Adminstrador acessa a opção Lista de Clientes;
+    4. Administrador busca usuário à ser removido;
+    5. Administrador escolhe a opção remover;
+    6. Administrador confirma a remoção do usuário;
+    7. Usuário é removido, banco de dados atualizado;
+    8. Mensagem confirmando a remoção.
+ - **Extensões:** 
+    - Passo 2: Usuário ou senha incorretos:
+        - Atentificação não é realizada;
+        - Notificação de erro ao Usuário;
+        - Informações novamente solicitadas.
+    - Passo 4:  Usuário enexistente;
+	    - Mensagem informando que usuário não existe. 
 
 #### 3.7 Caso de Uso VI – Logar
   - **Nível:** Administrador ou Usuário
@@ -282,5 +309,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI3NzcyODU4XX0=
+eyJoaXN0b3J5IjpbMTk2OTA3NTg2M119
 -->
