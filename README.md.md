@@ -230,7 +230,7 @@ Interações dos usuários com o sistema.
     5. Usuário preenche o formulário;
     6. Usuário pressiona botão Cadastrar Gênero
     7. Gênero é incluído, banco de dados atualizado;
-    8. Mensagem confirmando a remoção.
+    8. Mensagem confirmando a inclusão.
  - **Extensões:** 
     - Passo 2: Usuário ou senha incorretos:
         - Atentificação não é realizada;
@@ -299,5 +299,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyODg1NTY1Nl19
+eyJoaXN0b3J5IjpbMTM3MjYyMTg1OF19
 -->
