@@ -295,8 +295,9 @@ Interações dos usuários com o sistema.
   - **Garantias de sucesso:** Listar Clientes cadastrados no sistema.
   - **Cenário de sucesso principal:**
 	1. Usuário tem acesso á página de Login;
-	2. Usuário acessa a opção de Lista de Clientes;
-	3. Usuário tem acesso a lista de Clientes.
+	2. Usuário informa Login e senha;
+	3. Usuário acessa a opção de Lista de Clientes;
+	4. Usuário tem acesso a lista de Clientes.
   - **Extensões:** 
      - Passo 2: Usuário ou senha incorretos:
         - Atentificação não é realizada;
@@ -314,8 +315,9 @@ Interações dos usuários com o sistema.
   - **Garantias de sucesso:** Listar Títulos cadastrados no sistema.
   - **Cenário de sucesso principal:**
 	1. Usuário tem acesso á página de Login;
-	2. Usuário acessa a opção de Lista de Filmes;
-	3. Usuário tem acesso a lista de Filmes.
+	2. 
+	3. Usuário acessa a opção de Lista de Filmes;
+	4. Usuário tem acesso a lista de Filmes.
   - **Extensões:** 
      - Passo 2: Usuário ou senha incorretos:
         - Atentificação não é realizada;
@@ -332,9 +334,11 @@ Interações dos usuários com o sistema.
   - **Garantias de sucesso:** Registrar valor locação de Título no sistema.
   - **Cenário de sucesso principal:**
 	1. Usuário tem acesso á página de Login;
-	2. Usuário acessa a opção Preço e Desconto;
-	3. Usuário escolhe a opção Incluir Preço na caixa de seleção
-	4. Usuário preenche os campos do formulário.
+	2. 
+	3. Usuário acessa a opção Preço e Desconto;
+	4. Usuário escolhe a opção Incluir Preço na caixa de seleção;
+	5. Usuário preenche os campos do formulário.
+	6. Usuário confirma lançamento.
   - **Extensões:** 
      - Passo 2: Usuário ou senha incorretos:
         - Atentificação não é realizada;
@@ -354,5 +358,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDE3NzE3MDFdfQ==
+eyJoaXN0b3J5IjpbMTY5MzY4OTE3Ml19
 -->
