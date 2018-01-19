@@ -228,8 +228,8 @@ Interações dos usuários com o sistema.
     3. Usuário acessa a opção Controle Gênero;
     4. Usuário escolhe cadastrar Gênero na caixa de Seleção ;
     5. Usuário preenche o formulário;
-    6. Administrador confirma a remoção do usuário;
-    7. Usuário é removido, banco de dados atualizado;
+    6. Usuário pressiona botão Cadastrar Gênero
+    7. GÊnero é incluído, banco de dados atualizado;
     8. Mensagem confirmando a remoção.
  - **Extensões:** 
     - Passo 2: Usuário ou senha incorretos:
@@ -299,5 +299,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MTAxMDE3N119
+eyJoaXN0b3J5IjpbLTExNjY0OTc5NzZdfQ==
 -->
