@@ -303,18 +303,24 @@ Interações dos usuários com o sistema.
         - Notificação de erro ao Usuário;
         - Informações novamente solicitadas.  
    
-#### 3.9 Caso de Uso VIII – Lista de Títulos
-  - **Nível:** 
-  - **Atores primários:** 
-  - **Interessados:**
-    - **Administrador:**
-    - **Cliente:** 
-  - **Pré-condições:** 
-   - **Garantias de sucesso:** 
-      - **Cenário de sucesso principal:**
- 
-  - **Extensões:**
 
+  #### 3.1 Caso de Uso I – Lista Títulos
+  - **Nível:** Administrador ou Usuário
+  - **Atores primários:** Administrador e Usuário 
+  - **Interessados:** Administrador e Usuário
+    - **Administrador:** Listar Títulos cadastrados no sistema.
+    - **Usuário:** Listar Títulos cadastrados no sistema.
+  - **Pré-condições:** ?
+  - **Garantias de sucesso:** Listar Clientes cadastrados no sistema.
+  - **Cenário de sucesso principal:**
+	1. Usuário tem acesso á página de Login;
+	2. Usuário acessa a opção de Lista de Clientes;
+	3. Usuário tem acesso a lista de Clientes.
+  - **Extensões:** 
+     - Passo 2: Usuário ou senha incorretos:
+        - Atentificação não é realizada;
+        - Notificação de erro ao Usuário;
+        - Informações novamente solicitadas.  
 #### 3.10 Caso de Uso VII – Locação do Título
  - **Nível:** 
  - **Atores primários:** 
@@ -329,5 +335,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMzIyNzEzXX0=
+eyJoaXN0b3J5IjpbLTIwMjA5MjcxMTRdfQ==
 -->
