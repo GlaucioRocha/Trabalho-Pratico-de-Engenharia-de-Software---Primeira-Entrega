@@ -284,6 +284,25 @@ Interações dos usuários com o sistema.
         - Atentificação não é realizada;
         - Notificação de erro ao Usuário;
         - Informações novamente solicitadas.     
+  #### 3.1 Caso de Uso I – Cadastrar Cliente
+  - **Nível:** Administrador ou Usuário
+  - **Atores primários:** Administrador e Usuário 
+  - **Interessados:** Administrador e Usuário
+    - **Administrador:** Efetuação de cadastro do Usuário para ter acesso ao sistema.
+    - **Usuário:** Efetuação de cadastro do Usuário para ter acesso ao sistema.
+  - **Pré-condições:** ?
+  - **Garantias de sucesso:** Usuário e Clientes criados no sistema. 
+  - **Cenário de sucesso principal:**
+	1. Usuário tem acesso á página de Login;
+	2. Usuário acessa a opção de Lista de Clientes;
+	3. Usuário pressiona o botão Cadastrar Clientes
+	4. Usuário preenche os campos do formulário de cadastro ;
+	5. Usuário finaliza o cadastro;
+	6. Mensagem do sistema confirmando o cadastro;
+  - **Extensões:** 
+    - Passos 3 a 5: Campos preenchimento indevido:
+        - Processo de cadastro é interrompido;
+        - Usuário recebe informações relacionadas ao problema encontrado.
   
 
 #### 3.8 Caso de Uso VIII – Lista de Clientes
@@ -324,5 +343,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQwODUyNTA3XX0=
+eyJoaXN0b3J5IjpbLTUyMjEzNzIxMl19
 -->
