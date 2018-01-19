@@ -21,6 +21,7 @@ Nossa proposta está em trazer um produto que visa considerar todos os aspectos 
 	Requisitos Gerais
 
 
+
 |       Código       |Nome               |Descrição             |Prioridade        			                                                         |
 |--------------------|-------------------------------|-----------------------------|-----------------------------|
 |RF-01(1) 	     | Alugar Título           	   | Locação.                    | Essencial
@@ -240,5 +241,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODc3OTQzODVdfQ==
+eyJoaXN0b3J5IjpbMTU4NTY5OTk5N119
 -->
