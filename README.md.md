@@ -13,7 +13,7 @@
 |12/12/2017	     | 1.0           	   |Criação de Documento de Requisitos                    | Equipe
 |14/12/2017          | 1.1        |Atualização Requisitos          | Equipe
 |15/12/2017 	   |1.2	         	   |Criação do Índice      		 | Equipe
-|03/01/2018          |1.3|Cadastro de Usuário Admistrador do Sistema	| Essencial
+|03/01/2018          |1.3|Pequenas correções| Equipe
 
 ### 1. Introdução	
 
@@ -259,5 +259,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDI4MDE5MzNdfQ==
+eyJoaXN0b3J5IjpbLTE0MTc0NjcyMV19
 -->
