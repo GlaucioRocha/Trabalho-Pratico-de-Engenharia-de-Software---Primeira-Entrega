@@ -311,11 +311,11 @@ Interações dos usuários com o sistema.
     - **Administrador:** Listar Títulos cadastrados no sistema.
     - **Usuário:** Listar Títulos cadastrados no sistema.
   - **Pré-condições:** ?
-  - **Garantias de sucesso:** Listar Clientes cadastrados no sistema.
+  - **Garantias de sucesso:** Listar Títulos cadastrados no sistema.
   - **Cenário de sucesso principal:**
 	1. Usuário tem acesso á página de Login;
-	2. Usuário acessa a opção de Lista de Clientes;
-	3. Usuário tem acesso a lista de Clientes.
+	2. Usuário acessa a opção de Lista de Filmes;
+	3. Usuário tem acesso a lista de Filmes.
   - **Extensões:** 
      - Passo 2: Usuário ou senha incorretos:
         - Atentificação não é realizada;
@@ -335,5 +335,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjA5MjcxMTRdfQ==
+eyJoaXN0b3J5IjpbNjkwNTk1NTI5XX0=
 -->
