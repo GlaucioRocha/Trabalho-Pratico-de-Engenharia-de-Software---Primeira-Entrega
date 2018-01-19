@@ -299,7 +299,9 @@ Interações dos usuários com o sistema.
   - **Interessados:** Administrador e Usuário
     - **Administrador:** Listar Clientes cadastrados no sistema.
     - **Usuário:** Listar Clientes cadastrados no sistema.
-  - **Pré-condições:** ?
+  - **Pré-condições:** 
+	  - Usuário tem acesso a página de Login;
+    - Usuário com Login autorizado
   - **Garantias de sucesso:** Listar Clientes cadastrados no sistema.
   - **Cenário de sucesso principal:**
 	1. Usuário tem acesso à página de Login;
@@ -319,7 +321,9 @@ Interações dos usuários com o sistema.
   - **Interessados:** Administrador e Usuário
     - **Administrador:** Listar Títulos cadastrados no sistema.
     - **Usuário:** Listar Títulos cadastrados no sistema.
-  - **Pré-condições:** ?
+  - **Pré-condições:** 
+     - Usuário tem acesso a página de Login;
+    - Usuário com Login autorizado
   - **Garantias de sucesso:** Listar Títulos cadastrados no sistema.
   - **Cenário de sucesso principal:**
 	1. Usuário tem acesso à página de Login;
@@ -338,7 +342,9 @@ Interações dos usuários com o sistema.
   - **Interessados:** Administrador e Usuário
     - **Administrador:** Lançar valor locação de Título.
     - **Usuário:** Lançar valor locação de Título.
-  - **Pré-condições:** ?
+  - **Pré-condições:** 
+    - Usuário tem acesso a página de Login;
+    - Usuário com Login autorizado
   - **Garantias de sucesso:** Registrar valor locação de Título no sistema.
   - **Cenário de sucesso principal:**
 	1. Usuário tem acesso à página de Login;
@@ -359,7 +365,9 @@ Interações dos usuários com o sistema.
   - **Interessados:** Administrador e Usuário
     - **Administrador:** Alterar valor locação de Título.
     - **Usuário:** Alterar valor locação de Título.
-  - **Pré-condições:** ?
+  - **Pré-condições:** 
+    - Usuário tem acesso a página de Login;
+    - Usuário com Login autorizado
   - **Garantias de sucesso:** Registrar alteração valor locação de Título no sistema.
   - **Cenário de sucesso principal:**
 	1. Usuário tem acesso à página de Login;
@@ -380,7 +388,9 @@ Interações dos usuários com o sistema.
   - **Interessados:** Administrador e Usuário
     - **Administrador:** Alterar valor desconto de Título.
     - **Usuário:** Alterar valor desconto de Título.
-  - **Pré-condições:** ?
+  - **Pré-condições:** 
+  - Usuário tem acesso a página de Login;
+    - Usuário com Login autorizado
   - **Garantias de sucesso:** Registrar alteração valor locação de Título no sistema.
   - **Cenário de sucesso principal:**
 	1. Usuário tem acesso à página de Login;
@@ -411,5 +421,5 @@ Interações dos usuários com o sistema.
 eyJoaXN0b3J5IjpbLTc3NzQyMjE1NF19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNjQwNjMyXX0=
+eyJoaXN0b3J5IjpbLTEzNzc5MDEyNjFdfQ==
 -->
