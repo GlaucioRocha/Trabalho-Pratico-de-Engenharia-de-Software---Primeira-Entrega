@@ -226,11 +226,11 @@ Interações dos usuários com o sistema.
  - **Nível:** Administrador ou Usuário
  - **Atores primários:** Administrador ou Usuário
  - **Interessados:** 
-    Cadastro do Gênero do Título
+    - **Administrador:**  Cadastro do Gênero do Título
     - **Usuário:** Cadastro do Gênero do Título
  - **Pré-condições:** 
     - Usuário tem acesso a página de Login;
-    - Usuário tem acesso de Administrador.
+    - Usuário com Login autorizado.
  - **Garantias de sucesso:** 
     - Remoção do Usuário do banco de dados. 
     - Mensagem de confirmando a exclusão;
@@ -311,5 +311,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDQ5NTgxNDddfQ==
+eyJoaXN0b3J5IjpbLTE2MDQ5NzM2MTddfQ==
 -->
