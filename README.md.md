@@ -279,28 +279,7 @@ Interações dos usuários com o sistema.
     2. Usuário tem Login autenticado;
     3. Usuário acessa a opção Controle Gênero;
   
-#### 3.7 Caso de Uso VI – Logar
-  - **Nível:** Administrador ou Usuário
-  - **Atores primários:** Administrador, Usuário
-  - **Interessados:** 
-    - **Administrador:** Autentificação no sistema.
-    - **Cliente:** Autentificação no sistema.
-  - **Pré-condições:** 
-    - Acesso à página de Login. 
-    - Usuário existente .
-  - **Garantia de sucesso:** Login na página de acesso ao sistema.
-  - **Cenário de sucesso principal:**
-      1. Usuário tem acesso a página de Login;
-      2. Usuário informa Login e senha;
-      3. Usuário pressiona o botão Entrar;
-      4. Usuário redirecionado para a página principal do sistema.
-      
-  - **Extensões:** 
-    - Passos 2 e 3: 
-        - Autentificação não é realizada;
-        - Notificação de erro ao Usuário;
-        - Informações novamente solicitadas.
-        - 
+
 #### 3.8 Caso de Uso VIII – Lista de Clientes
   - **Nível:** 
   - **Atores primários:** 
@@ -339,5 +318,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NTQ4MjQwOF19
+eyJoaXN0b3J5IjpbLTIxMDk4MjkxNjddfQ==
 -->
