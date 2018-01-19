@@ -227,7 +227,7 @@ Interações dos usuários com o sistema.
     2. Usuário tem Login autenticado;
     3. Usuário acessa a opção Controle Gênero;
     4. Usuário escolhe cadastrar Gênero ;
-    5. Administrador escolhe a opção remover;
+    5. Usuá
     6. Administrador confirma a remoção do usuário;
     7. Usuário é removido, banco de dados atualizado;
     8. Mensagem confirmando a remoção.
@@ -299,5 +299,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDgwNzU4ODldfQ==
+eyJoaXN0b3J5IjpbLTI3NDU0NDg3N119
 -->
