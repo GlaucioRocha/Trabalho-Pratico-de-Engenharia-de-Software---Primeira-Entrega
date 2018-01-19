@@ -49,7 +49,7 @@ Nossa proposta está em trazer um produto que visa considerar todos os aspectos 
 	Requisitos Não-funcionais
 |       Código       |Nome               |Descrição             |Prioridade        			                                                         |
 |--------------------|-------------------------------|-----------------------------|-----------------------------|
-|RF-01(1) 	     | Alugar Título           	   | Locação.                    | Essencial
+|RNF-01(1) 	     | Alugar Título           	   | Locação.                    | Essencial
 |RF-02(1)          | Pagar Título         |Quitação.          | Essencial
 |RF-03(1)  	   |Devolver Título         	   |Devolução.        		 | Essencial
 |RF-04(1)          |Cadastro Administrador|Cadastro de Usuário Admistrador do Sistema	| Essencial
@@ -253,5 +253,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjgwNDQ3MzldfQ==
+eyJoaXN0b3J5IjpbMzgzNTkyNTgxXX0=
 -->
