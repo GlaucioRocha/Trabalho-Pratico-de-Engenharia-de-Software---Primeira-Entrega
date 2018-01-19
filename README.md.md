@@ -221,9 +221,9 @@ Interações dos usuários com o sistema.
  
   - **Extensões:**
 
-#### 3.5 Caso de Uso V – Remoção de Usuário
- - **Nível:** Administrador
- - **Atores primários:** Administrador
+#### 3.5 Caso de Uso V – Controlar Gênero
+ - **Nível:** Administrador ou Usuário
+ - **Atores primários:** Administrador ou Usuário
  - **Interessados:** 
     - **Administrador:** Remover um usuário cadastrado.
  - **Pré-condições:** 
@@ -309,5 +309,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2OTA3NTg2M119
+eyJoaXN0b3J5IjpbLTM0MTIwMDY2NV19
 -->
