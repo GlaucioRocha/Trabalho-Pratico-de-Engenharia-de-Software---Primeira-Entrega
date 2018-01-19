@@ -102,10 +102,11 @@ Interações dos usuários com o sistema.
   - **Garantias de sucesso:** Usuário e Clientes criados no sistema. 
   - **Cenário de sucesso principal:**
 	1. Usuário tem acesso á página de Login;
-	2. Usuário acessa a opção de Cadastro de Cliente;
-	3. Usuário preenche os campos do formulário de cadastro ;
-	4. Usuário finaliza o cadastro;
-	5. Mensagem do sistema confirmando o cadastro;
+	2. Usuário acessa a opção de Lista de Clientes;
+	3. Usuário pressiona o botão Cadastrar Clientes
+	4. Usuário preenche os campos do formulário de cadastro ;
+	5. Usuário finaliza o cadastro;
+	6. Mensagem do sistema confirmando o cadastro;
   - **Extensões:** 
     - Passos 3 a 5: Campos preenchimento indevido:
         - Processo de cadastro é interrompido;
@@ -323,5 +324,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDA0MjAxMThdfQ==
+eyJoaXN0b3J5IjpbMjQwODUyNTA3XX0=
 -->
