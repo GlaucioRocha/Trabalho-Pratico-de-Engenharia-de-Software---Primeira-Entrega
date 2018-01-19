@@ -261,7 +261,23 @@ Interações dos usuários com o sistema.
         - Atentificação não é realizada;
         - Notificação de erro ao Usuário;
         - Informações novamente solicitadas.
-
+        - 
+#### 3.7 Caso de Uso VI – Logar
+ - **Nível:** Administrador ou Usuário
+ - **Atores primários:** Administrador ou Usuário
+ - **Interessados:** 
+    - **Administrador:**  Remover Gênero do Título
+    - **Usuário:** Remover Gênero do Título
+ - **Pré-condições:** 
+    - Usuário tem acesso a página de Login;
+    - Usuário com Login autorizado.
+ - **Garantias de sucesso:** 
+    - Remoção do Gênero do Título do banco de dados. 
+    - Mensagem de confirmando a exclusão;
+ - **Cenário de sucesso principal:**
+    1. Usuário tem acesso a página de Login;
+    2. Usuário tem Login autenticado;
+    3. Usuário acessa a opção Controle Gênero;
   
 #### 3.7 Caso de Uso VI – Logar
   - **Nível:** Administrador ou Usuário
@@ -323,5 +339,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUzODUzNTc1XX0=
+eyJoaXN0b3J5IjpbOTQ3NDA5NzQwXX0=
 -->
