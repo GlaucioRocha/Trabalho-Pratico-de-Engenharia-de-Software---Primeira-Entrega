@@ -10,8 +10,8 @@
 
 |       Data       |Versão           |Descrição             |Autor   			                                                         |
 |--------------------|-------------------------------|-----------------------------|-----------------------------|
-|12/12/2017	     | 1.0           	   | Locação.                    | Essencial
-|RF-02(1)          | Pagar Título         |Quitação.          | Essencial
+|12/12/2017	     | 1.0           	   |Criação de Documento de Requisitos                    | Equipe
+|14/12/2017          | Pagar Título         |Quitação.          | Essencial
 |RF-03(1)  	   |Devolver Título         	   |Devolução.        		 | Essencial
 |RF-04(1)          |Cadastro Administrador|Cadastro de Usuário Admistrador do Sistema	| Essencial
 
@@ -259,5 +259,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY2OTAxMzg4XX0=
+eyJoaXN0b3J5IjpbMTAwNjQwNjIzNV19
 -->
