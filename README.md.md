@@ -8,7 +8,7 @@
 
 
 
-|       Código       |Nome               |Descrição             |Prioridade        			                                                         |
+|       Data       |Versão           |Descrição             |Autor   			                                                         |
 |--------------------|-------------------------------|-----------------------------|-----------------------------|
 |RF-01(1) 	     | Alugar Título           	   | Locação.                    | Essencial
 |RF-02(1)          | Pagar Título         |Quitação.          | Essencial
@@ -259,5 +259,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0OTMwMzEwOF19
+eyJoaXN0b3J5IjpbLTI3OTc5NTA4NF19
 -->
