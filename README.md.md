@@ -16,9 +16,10 @@
 |03/01/2018          |1.3|Pequenas correções| Lucas Lima
 |04/01/2018         | 1.4        |Atualização Requisitos          | Flávio Gonçalves
 |05/01/2018 	   |1.5	         	   |Atualização Requisitos   		 | Glaucio Gonçalves
-|06/01/2018          |1.6|Atualização Requisitos   | Lucas Lima
-|06/01/2018          |1.8|Atualização Requisitos   | Flávio Gonçalves
-|06/01/2018          |1.9|Atualização Requisitos   | Édlon Sá
+|06/01/2018          |1.6|Pequenas Correções  | Lucas Lima
+|09/01/2018          |1.8|Atualização Requisitos   | Flávio Gonçalves
+|10/01/2018          |1.9|Atualização Requisitos   | Édlon Sá
+|13/01/2018          |2.0|Atualização Requisitos Segundo Release  | Édlon Sá
 
 ### 1. Introdução	
 
@@ -264,5 +265,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MjQ3NDYyMV19
+eyJoaXN0b3J5IjpbMjEwODgyODU1Ml19
 -->
