@@ -18,7 +18,7 @@
 |05/01/2018 	   |1.5	         	   |Atualização Requisitos   		 | Glaucio Gonçalves
 |06/01/2018          |1.6|Atualização Requisitos   | Lucas Lima
 |06/01/2018          |1.8|Atualização Requisitos   | Flávio Gonçalves
-|06/01/2018          |1.9|Atualização Requisitos   | Édlon 
+|06/01/2018          |1.9|Atualização Requisitos   | Édlon Sá
 
 ### 1. Introdução	
 
@@ -264,5 +264,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzg5MDYzNjBdfQ==
+eyJoaXN0b3J5IjpbLTExOTY5MjExMjZdfQ==
 -->
