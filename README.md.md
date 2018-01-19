@@ -46,8 +46,19 @@ Nossa proposta está em trazer um produto que visa considerar todos os aspectos 
 |RF-20(1)          |Total de Título cadastrados| Mostra o total de Títulos cadastrados|Essencial
 
 
-	Requisitos Não-funcianais
-
+	Requisitos Não-funcionais
+|       Código       |Nome               |Descrição             |Prioridade        			                                                         |
+|--------------------|-------------------------------|-----------------------------|-----------------------------|
+|RF-01(1) 	     | Alugar Título           	   | Locação.                    | Essencial
+|RF-02(1)          | Pagar Título         |Quitação.          | Essencial
+|RF-03(1)  	   |Devolver Título         	   |Devolução.        		 | Essencial
+|RF-04(1)          |Cadastro Administrador|Cadastro de Usuário Admistrador do Sistema	| Essencial
+|RF-05(1)          |Alterar Administrador|Modificar cadatro do admi	nistrador| Essencial
+|RF-06(1)          |Alterar Recupera Senha do Administrador|Recupera Senha do Administrador caso ele Perca| Essencial
+|RF-07(1)          |Exclui Administrador| Exclui um Administrador do Sistema| Essencial
+|RF-08(1)          | Cadastro Usuário |Cadastro de Usuário| Essencial
+|RF-09(1)          |Alterar Usuário|Modificar cadastro do administrador| Essencial
+|RF-10(1)          |Excluir Usuário|Remover Cadastro do Usuário| Essencial
 
 ### 3. Detalhamento dos Casos de Uso
 Interações dos usuários com o sistema.
@@ -242,5 +253,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMzY5MTQ2MV19
+eyJoaXN0b3J5IjpbLTE5NjgwNDQ3MzldfQ==
 -->
