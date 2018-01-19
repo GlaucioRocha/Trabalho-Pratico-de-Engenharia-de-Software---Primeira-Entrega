@@ -12,9 +12,9 @@
 |--------------------|-------------------------------|-----------------------------|-----------------------------|
 |12/12/2017	     | 1.0           	   |Criação de Documento de Requisitos                    | Equipe
 |14/12/2017          | 1.1        |Atualização Requisitos          | Equipe
-|15/12/2017 	   |1.2	         	   |Criação do Índice      		 | Equipe
+|15/12/2017 	   |1.2	         	   |Criação do Índice      		 | Gláucio Gonçalves
 |03/01/2018          |1.3|Pequenas correções| Equipe
-|04/01/2018         | 1.4        |Atualização Requisitos          | Equipe
+|04/01/2018         | 1.4        |Atualização Requisitos          | Lucas Lima
 |05/01/2018 	   |1.5	         	   |Atualização Requisitos   		 | Glaucio Gonçalves
 |06/01/2018          |1.6|Atualização Requisitos   | Lucas Lima
 |06/01/2018          |1.8|Atualização Requisitos   | Flávio Gonçalves
@@ -264,5 +264,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTY5MjExMjZdfQ==
+eyJoaXN0b3J5IjpbLTEyNjI3NzYzMV19
 -->
