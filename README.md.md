@@ -370,7 +370,7 @@ Interações dos usuários com o sistema.
   - **Nível:** Administrador ou Usuário
   - **Atores primários:** Administrador e Usuário 
   - **Interessados:** Administrador e Usuário
-    - **Administrador:** Alterar valor locação de Título.
+    - **Administrador:** Alterar valor desconto de Título.
     - **Usuário:** Alterar valor locação de Título.
   - **Pré-condições:** ?
   - **Garantias de sucesso:** Registrar alteração valor locação de Título no sistema.
@@ -400,5 +400,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI5NDY3MjE1XX0=
+eyJoaXN0b3J5IjpbMTIyNTIyNjEzNF19
 -->
