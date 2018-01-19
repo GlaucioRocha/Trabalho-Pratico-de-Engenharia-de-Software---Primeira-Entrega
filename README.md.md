@@ -261,6 +261,7 @@ Interações dos usuários com o sistema.
         - Atentificação não é realizada;
         - Notificação de erro ao Usuário;
         - Informações novamente solicitadas.
+
   
 #### 3.7 Caso de Uso VI – Logar
   - **Nível:** Administrador ou Usuário
@@ -322,5 +323,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NTc4NjIwMV19
+eyJoaXN0b3J5IjpbMzUzODUzNTc1XX0=
 -->
