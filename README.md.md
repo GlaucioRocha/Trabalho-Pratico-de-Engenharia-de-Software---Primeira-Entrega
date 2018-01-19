@@ -118,7 +118,9 @@ Interações dos usuários com o sistema.
  - **Atores primários:** Administrador e Usuário
  - **Interessados:** Administrador e Usuário
 	- **Administrador:** Realização de Cadastro corretamente ao banco de dados.
- - **Pré-condições:** Usuários com Login autorizado.
+ - **Pré-condições:** 
+	 - Usuário tem acesso a página de Login;
+    - Usuário com Login autorizado
  - **Garantia de sucesso:** Títulos cadastrados corretamente ao banco de dados. 
  - **Cenário de sucesso principal:**
 	 1. Usuário tem acesso a página web;
@@ -136,7 +138,9 @@ Interações dos usuários com o sistema.
  - **Atores primários:** Administrador ou Usuário
  - **Interessados:** 
 	  - **Usuário:** Alterações de campos editáveis.
- - **Pré-condições:** Usuários com Login autorizado.
+ - **Pré-condições:**
+	 - Usuário tem acesso a página de Login;
+    - Usuário com Login autorizado
  - **Garantias de sucesso:**
     - Alteração realizada, banco de dados atualizado. 
     - Alteração realizada podendo ser visualizada no sistema.
@@ -163,7 +167,9 @@ Interações dos usuários com o sistema.
  - **Atores primários:** Administrador ou Usuário
  - **Interessados:** 
     - **Administrador:** Alterações de campos editáveis.
- - **Pré-condições:** Usuários com Login autorizado.
+ - **Pré-condições:** 
+	 - Usuário tem acesso a página de Login;
+    - Usuário com Login autorizado
  - **Garantia de sucesso:** 
     - Alteração realizada, banco de dados atualizado.
     - Atualização do valor do campo exibido no sistema.
@@ -405,5 +411,5 @@ Interações dos usuários com o sistema.
 eyJoaXN0b3J5IjpbLTc3NzQyMjE1NF19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTg0MTUzNjldfQ==
+eyJoaXN0b3J5IjpbLTcyNjQwNjMyXX0=
 -->
