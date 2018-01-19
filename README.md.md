@@ -215,7 +215,7 @@ Interações dos usuários com o sistema.
   - **Atores primários:** Administrador ou Usuário
   - **Interessados:**
     - **Administrador:** Cadastro do Gênero do Título
-    - **Cliente:** 
+    - **Usuário:** Cadastro do Gênero do Título
   - **Pré-condições:** 
    - **Garantias de sucesso:** 
       - **Cenário de sucesso principal:**
@@ -283,5 +283,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMjk5MTgyXX0=
+eyJoaXN0b3J5IjpbMTg4MTAwNDI2M119
 -->
