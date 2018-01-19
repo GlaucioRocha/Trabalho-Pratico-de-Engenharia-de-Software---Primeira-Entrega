@@ -237,17 +237,17 @@ Interações dos usuários com o sistema.
         - Notificação de erro ao Usuário;
         - Informações novamente solicitadas.
         - 
-#### 3.7 Caso de Uso V – Deletar Gênero
+#### 3.7 Caso de Uso V – Remover Gênero
  - **Nível:** Administrador ou Usuário
  - **Atores primários:** Administrador ou Usuário
  - **Interessados:** 
-    - **Administrador:**  Exclusão do Gênero do Título
-    - **Usuário:** Exclusão do Gênero do Título
+    - **Administrador:**  Remover Gênero do Título
+    - **Usuário:** Remover Gênero do Título
  - **Pré-condições:** 
     - Usuário tem acesso a página de Login;
     - Usuário com Login autorizado.
  - **Garantias de sucesso:** 
-    - Remoção do Usuário do banco de dados. 
+    - Remoção do Gênero do Título do banco de dados. 
     - Mensagem de confirmando a exclusão;
  - **Cenário de sucesso principal:**
     1. Usuário tem acesso a página de Login;
@@ -324,5 +324,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjAwNTg4NDRdfQ==
+eyJoaXN0b3J5IjpbMTEwNDUyMzkzNl19
 -->
