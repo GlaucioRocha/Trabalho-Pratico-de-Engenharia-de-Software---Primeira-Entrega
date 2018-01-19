@@ -255,9 +255,7 @@ Interações dos usuários com o sistema.
     3. Usuário acessa a opção Controle Gênero;
     4. Usuário escolhe Deletar Gênero na caixa de Seleção ;
     5. Usuário pressiona botão de confirmação;
-    6. Usuário pressiona botão Cadastrar Gênero
-    7. Gênero dos Títulos é incluído, banco de dados atualizado;
-    8. Mensagem confirmando a inclusão.
+    6. Mensagem confirmando a inclusão;
  - **Extensões:** 
     - Passo 2: Usuário ou senha incorretos:
         - Atentificação não é realizada;
@@ -324,5 +322,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1OTUwNTU3NV19
+eyJoaXN0b3J5IjpbLTE1NzkzMTE5NjldfQ==
 -->
