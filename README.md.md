@@ -237,12 +237,12 @@ Interações dos usuários com o sistema.
         - Notificação de erro ao Usuário;
         - Informações novamente solicitadas.
         - 
-#### 3.7 Caso de Uso V – Cadastrar Gênero
+#### 3.7 Caso de Uso V – Deletar Gênero
  - **Nível:** Administrador ou Usuário
  - **Atores primários:** Administrador ou Usuário
  - **Interessados:** 
-    - **Administrador:**  Cadastro do Gênero do Título
-    - **Usuário:** Cadastro do Gênero do Título
+    - **Administrador:**  Exclusão do Gênero do Título
+    - **Usuário:** Exclusão do Gênero do Título
  - **Pré-condições:** 
     - Usuário tem acesso a página de Login;
     - Usuário com Login autorizado.
@@ -324,5 +324,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxODk0NTY2NF19
+eyJoaXN0b3J5IjpbLTEzNjAwNTg4NDRdfQ==
 -->
