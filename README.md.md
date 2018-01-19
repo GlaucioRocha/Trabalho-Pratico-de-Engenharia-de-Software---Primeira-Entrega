@@ -24,7 +24,8 @@
 |15/01/2018          |2.1|Pequenos Ajustes | Lucas Lima
 
 **Sumário**
-1. [Introdução	(#id1)
+1. [Introdução](#id1)
+2. [Introdução](#id1)
 
 ### 1. Introdução	
 
@@ -270,5 +271,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMTEzMjc1OV19
+eyJoaXN0b3J5IjpbODQ0MDExMzRdfQ==
 -->
