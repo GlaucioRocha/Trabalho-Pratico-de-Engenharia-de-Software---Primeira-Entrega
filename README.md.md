@@ -132,7 +132,7 @@ Interações dos usuários com o sistema.
  - **Nível:** Administrador ou Usuário
  - **Atores primários:** Administrador ou Usuário
  - **Interessados:** 
-  - **Usuário:** Alterações de campos editáveis.
+	  - **Usuário:** Alterações de campos editáveis.
  - **Pré-condições:** Usuários com Login autorizado.
  - **Garantias de sucesso:**
     - Alteração realizada, banco de dados atualizado. 
@@ -214,7 +214,7 @@ Interações dos usuários com o sistema.
   - **Nível:**  Administrador ou Usuário
   - **Atores primários:** Administrador ou Usuário
   - **Interessados:**
-    - **Administrador:**
+    - **Administrador:** Cadastro do Gênero do Título
     - **Cliente:** 
   - **Pré-condições:** 
    - **Garantias de sucesso:** 
@@ -283,5 +283,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NzEzODg5NV19
+eyJoaXN0b3J5IjpbLTkzMjk5MTgyXX0=
 -->
