@@ -52,7 +52,7 @@ Nossa proposta está em trazer um produto que visa considerar todos os aspectos 
 |RNF-01(1) 	     |Segurança         	   | Operações só serão realizadas através de Usuários autentificados.                   | Essencial
 |RNF-02(1)          | Interface        |Sistema de interface intuitiva.          | Essencial
 |RNF-03(1)  	   |Operacional         	   |Sistema deve ser Desenvolvido em PHP.        		 | Essencial
-|RF-03(2)          |Cadastro Administrador|Cadastro de Usuário Admistrador do Sistema	| Essencial
+|RF-03(2)          |Operacional|Sistema deve ser compatível com os navegadores existentes.| Essencial
 |RF-05(1)          |Alterar Administrador|Modificar cadatro do admi	nistrador| Essencial
 |RF-06(1)          |Alterar Recupera Senha do Administrador|Recupera Senha do Administrador caso ele Perca| Essencial
 |RF-07(1)          |Exclui Administrador| Exclui um Administrador do Sistema| Essencial
@@ -253,5 +253,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTExNTA5MTNdfQ==
+eyJoaXN0b3J5IjpbMTg4NjM1NTQyNV19
 -->
