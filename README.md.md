@@ -99,7 +99,7 @@ Interações dos usuários com o sistema.
     - **Administrador:** Efetuação de cadastro do Usuário para ter acesso ao sistema.
     - **Usuário:** Efetuação de cadastro do Usuário para ter acesso ao sistema.
   - **Pré-condições:** 
-  - - Usuário tem acesso a página de Login;
+	   - Usuário tem acesso a página de Login;
     - Usuário com Login autorizado
   - **Garantias de sucesso:** Usuário e Clientes criados no sistema. 
   - **Cenário de sucesso principal:**
@@ -405,5 +405,5 @@ Interações dos usuários com o sistema.
 eyJoaXN0b3J5IjpbLTc3NzQyMjE1NF19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxODg2NzE3OF19
+eyJoaXN0b3J5IjpbLTE0NTg0MTUzNjldfQ==
 -->
