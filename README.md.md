@@ -211,7 +211,7 @@ Interações dos usuários com o sistema.
     - Passo 4:  Usuário inexistente;
 	    - Mensagem informando que usuário não existe.
 	    - 
-#### 3.6 Caso de Uso V – Cadastrar Gênero
+#### 3.6 Caso de Uso VI – Cadastrar Gênero
  - **Nível:** Administrador ou Usuário
  - **Atores primários:** Administrador ou Usuário
  - **Interessados:** 
@@ -238,7 +238,7 @@ Interações dos usuários com o sistema.
         - Notificação de erro ao Usuário;
         - Informações novamente solicitadas.
         - 
-#### 3.7 Caso de Uso V – Remover Gênero
+#### 3.7 Caso de Uso VII – Remover Gênero
  - **Nível:** Administrador ou Usuário
  - **Atores primários:** Administrador ou Usuário
  - **Interessados:** 
@@ -263,7 +263,7 @@ Interações dos usuários com o sistema.
         - Notificação de erro ao Usuário;
         - Informações novamente solicitadas.
         - 
-#### 3.7 Caso de Uso VI – Logar
+#### 3.8 Caso de Uso VIII – Logar
  - **Nível:** Administrador ou Usuário
  - **Atores primários:** Administrador, Usuário
  - **Interessados:** 
@@ -285,7 +285,7 @@ Interações dos usuários com o sistema.
         - Notificação de erro ao Usuário;
         - Informações novamente solicitadas.     
       
-  #### 3.1 Caso de Uso I – Lista Cliente
+  #### 3.9 Caso de Uso I – Lista Cliente
   - **Nível:** Administrador ou Usuário
   - **Atores primários:** Administrador e Usuário 
   - **Interessados:** Administrador e Usuário
@@ -403,5 +403,5 @@ Interações dos usuários com o sistema.
 eyJoaXN0b3J5IjpbLTc3NzQyMjE1NF19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3ODUxNTUwNF19
+eyJoaXN0b3J5IjpbLTg5MjY5NjUxMF19
 -->
