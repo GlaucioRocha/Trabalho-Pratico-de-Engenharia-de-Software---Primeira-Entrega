@@ -270,14 +270,14 @@ Interações dos usuários com o sistema.
     - **Usuário:** Autentificação no sistema.
  - **Pré-condições:** 
     - Usuário tem acesso a página de Login;
-    - Usuário com Login autorizado.
+    - Usuário existente.
  - **Garantias de sucesso:** 
-    - Remoção do Gênero do Título do banco de dados. 
-    - Mensagem de confirmando a exclusão;
+    - Login na página de acesso ao sistema.
  - **Cenário de sucesso principal:**
-    1. Usuário tem acesso a página de Login;
-    2. Usuário tem Login autenticado;
-    3. Usuário acessa a opção Controle Gênero;
+	  1. Usuário tem acesso a página de Login;
+      2. Usuário informa Login e senha;
+      3. Usuário pressiona o botão Entrar;
+      4. Usuário redirecionado para a página principal do sistema.
   
 
 #### 3.8 Caso de Uso VIII – Lista de Clientes
@@ -318,5 +318,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDk4MjkxNjddfQ==
+eyJoaXN0b3J5IjpbNTY1NDMxNTc5XX0=
 -->
