@@ -49,7 +49,7 @@ Nossa proposta está em trazer um produto que visa considerar todos os aspectos 
 
 <div id='id1' />
 
-### 2. Requisitos
+## 2. Requisitos
 
 	Requisitos Gerais
 
@@ -87,7 +87,9 @@ Nossa proposta está em trazer um produto que visa considerar todos os aspectos 
 |RNF-03(1)  	   |Operacional         	   |Sistema deve ser Desenvolvido em PHP.        		 | Essencial
 |RF-03(2)          |Operacional|Sistema deve ser compatível com os navegadores existentes.| Essencial
 
-### 3. Detalhamento dos Casos de Uso
+<div id='id3' />
+
+## 3. Detalhamento dos Casos de Uso
 Interações dos usuários com o sistema.
 #### 3.1 Caso de Uso I – Cadastrar Cliente
   - **Nível:** Administrador ou Usuário
@@ -107,7 +109,7 @@ Interações dos usuários com o sistema.
     - Passos 3 a 5: Campos preenchimento indevido:
         - Processo de cadastro é interrompido;
         - Usuário recebe informações relacionadas ao problema encontrado. 
-#### 3.2 Caso de Uso II – Cadastrar Título
+## 3.2 Caso de Uso II – Cadastrar Título
  - **Nível:** Administrador e Usuário
  - **Atores primários:** Administrador e Usuário
  - **Interessados:** Administrador e Usuário
@@ -280,5 +282,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTc0MjMxMzZdfQ==
+eyJoaXN0b3J5IjpbMTg3MTk1OTMzNl19
 -->
