@@ -211,8 +211,8 @@ Interações dos usuários com o sistema.
 	    - Mensagem informando que usuário não existe.
 	    - 
 #### 3.6 Caso de Uso VIII – Controlar Gênero
-  - **Nível:** 
-  - **Atores primários:** 
+  - **Nível:**  Administrador ou Usuário
+  - **Atores primários:** Administrador ou Usuário
   - **Interessados:**
     - **Administrador:**
     - **Cliente:** 
@@ -283,5 +283,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA5MDk4MjE3XX0=
+eyJoaXN0b3J5IjpbMTg2NzEzODg5NV19
 -->
