@@ -350,9 +350,9 @@ Interações dos usuários com o sistema.
   - **Atores primários:** Administrador e Usuário 
   - **Interessados:** Administrador e Usuário
     - **Administrador:** Alterar valor locação de Título.
-    - **Usuário:** Aletrar valor locação de Título.
+    - **Usuário:** Alterar valor locação de Título.
   - **Pré-condições:** ?
-  - **Garantias de sucesso:** Registrar valor locação de Título no sistema.
+  - **Garantias de sucesso:** Registrar alteração valor locação de Título no sistema.
   - **Cenário de sucesso principal:**
 	1. Usuário tem acesso á página de Login;
 	2. Usuário informa Login e senha;
@@ -379,5 +379,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDYxMjA0NjZdfQ==
+eyJoaXN0b3J5IjpbMjA5Nzc0OTYyMF19
 -->
