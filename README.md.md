@@ -50,8 +50,8 @@ Nossa proposta está em trazer um produto que visa considerar todos os aspectos 
 |       Código       |Nome               |Descrição             |Prioridade        			                                                         |
 |--------------------|-------------------------------|-----------------------------|-----------------------------|
 |RNF-01(1) 	     |Segurança         	   | Operações só serão realizadas através de Usuários autentificados.                   | Essencial
-|RNF-02(1)          | Interface        |Quitação.          | Essencial
-|RF-03(1)  	   |Devolver Título         	   |Devolução.        		 | Essencial
+|RNF-02(1)          | Interface        |Sistema de interface intuitiva.          | Essencial
+|RNF-03(1)  	   |Devolver Título         	   |Devolução.        		 | Essencial
 |RF-04(1)          |Cadastro Administrador|Cadastro de Usuário Admistrador do Sistema	| Essencial
 |RF-05(1)          |Alterar Administrador|Modificar cadatro do admi	nistrador| Essencial
 |RF-06(1)          |Alterar Recupera Senha do Administrador|Recupera Senha do Administrador caso ele Perca| Essencial
@@ -253,5 +253,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzEwNDkxMjBdfQ==
+eyJoaXN0b3J5IjpbLTE3MjY3OTY2NzBdfQ==
 -->
