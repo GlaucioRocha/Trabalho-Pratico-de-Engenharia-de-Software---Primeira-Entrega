@@ -304,7 +304,6 @@ Interações dos usuários com o sistema.
         - Processo de cadastro é interrompido;
         - Usuário recebe informações relacionadas ao problema encontrado.
   
-
 #### 3.8 Caso de Uso VIII – Lista de Clientes
   - **Nível:** 
   - **Atores primários:** 
@@ -343,5 +342,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMjEzNzIxMl19
+eyJoaXN0b3J5IjpbOTcwNTI3NjAyXX0=
 -->
