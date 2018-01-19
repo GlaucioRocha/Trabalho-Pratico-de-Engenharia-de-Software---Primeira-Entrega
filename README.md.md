@@ -10,7 +10,7 @@
 
 |       Data       |Versão           |Descrição             |Autor   			                                                         |
 |--------------------|-------------------------------|-----------------------------|-----------------------------|
-|RF-01(1) 	     | Alugar Título           	   | Locação.                    | Essencial
+|12/12/2017	     | Alugar Título           	   | Locação.                    | Essencial
 |RF-02(1)          | Pagar Título         |Quitação.          | Essencial
 |RF-03(1)  	   |Devolver Título         	   |Devolução.        		 | Essencial
 |RF-04(1)          |Cadastro Administrador|Cadastro de Usuário Admistrador do Sistema	| Essencial
@@ -259,5 +259,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3OTc5NTA4NF19
+eyJoaXN0b3J5IjpbLTE3MjgyNTAxNl19
 -->
