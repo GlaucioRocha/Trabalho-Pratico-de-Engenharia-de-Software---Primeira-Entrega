@@ -322,11 +322,11 @@ Interações dos usuários com o sistema.
         - Notificação de erro ao Usuário;
         - Informações novamente solicitadas.  
         
-#### 3.1 Caso de Uso I – Gerenciamento e Controle de Preços
+#### 3.1 Caso de Uso I – Lançar Preço
   - **Nível:** Administrador ou Usuário
   - **Atores primários:** Administrador e Usuário 
   - **Interessados:** Administrador e Usuário
-    - **Administrador:** Listar Títulos cadastrados no sistema.
+    - **Administrador:** Lançar .
     - **Usuário:** Listar Títulos cadastrados no sistema.
   - **Pré-condições:** ?
   - **Garantias de sucesso:** Listar Títulos cadastrados no sistema.
@@ -353,5 +353,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDI4Njk3MTldfQ==
+eyJoaXN0b3J5IjpbMTYyNTgzNzMzNF19
 -->
