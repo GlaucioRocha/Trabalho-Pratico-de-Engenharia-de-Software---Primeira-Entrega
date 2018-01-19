@@ -23,7 +23,7 @@
 |13/01/2018          |2.0|Atualização Requisitos Segundo Release  | Édlon Sá
 |15/01/2018          |2.1|Pequenos Ajustes | Lucas Lima
 
-**Índice**
+**Sumário**
 1. [Introdução](#id1)
 2. [Segundo apartado](#id2)
 <div id='id1' />
@@ -282,5 +282,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNDc1NDQ1NV19
+eyJoaXN0b3J5IjpbNDM3NTc2NDU1XX0=
 -->
