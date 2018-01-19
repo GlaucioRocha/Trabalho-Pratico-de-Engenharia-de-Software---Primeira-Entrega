@@ -98,7 +98,7 @@ Interações dos usuários com o sistema.
   - **Interessados:** Administrador e Usuário
     - **Administrador:** Efetuação de cadastro do Usuário para ter acesso ao sistema.
     - **Usuário:** Efetuação de cadastro do Usuário para ter acesso ao sistema.
-  - **Pré-condições:** ?
+  - **Pré-condições:** Usuário autenticado.
   - **Garantias de sucesso:** Usuário e Clientes criados no sistema. 
   - **Cenário de sucesso principal:**
 	1. Usuário tem acesso à página de Login;
@@ -116,7 +116,7 @@ Interações dos usuários com o sistema.
  - **Atores primários:** Administrador e Usuário
  - **Interessados:** Administrador e Usuário
 	- **Administrador:** Realização de Cadastro corretamente ao banco de dados.
- - **Pré-condições:**
+ - **Pré-condições:** Usuário autenticado.
  - **Garantia de sucesso:** Títulos cadastrados corretamente ao banco de dados. 
  - **Cenário de sucesso principal:**
 	 1. Usuário tem acesso a página web;
@@ -403,5 +403,5 @@ Interações dos usuários com o sistema.
 eyJoaXN0b3J5IjpbLTc3NzQyMjE1NF19
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNTgxNzgwXX0=
+eyJoaXN0b3J5IjpbNjExMTkxNTU5XX0=
 -->
