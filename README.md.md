@@ -35,9 +35,9 @@
 
 **Sumário**
 1. [           Introdução](#id1)
-2. [Segundo apartado](#id2)
+2. [Requisitos](#id2)
 
-
+<div id='id1' />
 ## 1. Introdução	
 
 #### 1.1 . Objetivos
@@ -48,7 +48,8 @@ Este documento visa os clientes e desenvolvedores envolvidos na criação do sis
 
 Nossa proposta está em trazer um produto que visa considerar todos os aspectos importantes de mercado e entregar coesão e integridade para o gerenciamento comercial de locação de filmes, automatizando processos e entregando um sistema ideal para a locação de filmes de forma simplificada e intuitiva,  foi criado um site utilizando PHP, interligado ao banco de dados.
 
-<div id='id1' />
+
+<div id='id2' />
 
 ## 2. Requisitos
 
@@ -87,8 +88,6 @@ Nossa proposta está em trazer um produto que visa considerar todos os aspectos 
 |RNF-02(1)          | Interface        |Sistema de interface intuitiva.          | Essencial
 |RNF-03(1)  	   |Operacional         	   |Sistema deve ser Desenvolvido em PHP.        		 | Essencial
 |RF-03(2)          |Operacional|Sistema deve ser compatível com os navegadores existentes.| Essencial
-
-<div id='id2' />
 
 ## 3. Detalhamento dos Casos de Uso
 Interações dos usuários com o sistema.
@@ -283,5 +282,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMyNzg3Mjc2XX0=
+eyJoaXN0b3J5IjpbODg1MzI4MDQxXX0=
 -->
