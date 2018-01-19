@@ -11,8 +11,8 @@
 |       Data       |Versão           |Descrição             |Autor   			                                                         |
 |--------------------|-------------------------------|-----------------------------|-----------------------------|
 |12/12/2017	     | 1.0           	   |Criação de Documento de Requisitos                    | Equipe
-|14/12/2017          | 1.1        |Quitação.          | Essencial
-|RF-03(1)  	   |Devolver Título         	   |Devolução.        		 | Essencial
+|14/12/2017          | 1.1        |Atualização Requisitos          | Equipe
+|15/12/2017 	   |1.2	         	   |Devolução.        		 | Essencial
 |RF-04(1)          |Cadastro Administrador|Cadastro de Usuário Admistrador do Sistema	| Essencial
 
 ### 1. Introdução	
@@ -259,5 +259,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjk0OTcxOTldfQ==
+eyJoaXN0b3J5IjpbLTQ3NDg4Njc1Nl19
 -->
