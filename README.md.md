@@ -220,8 +220,8 @@ Interações dos usuários com o sistema.
     - Usuário tem acesso a página de Login;
     - Usuário com Login autorizado.
  - **Garantias de sucesso:** 
-    - Remoção do Usuário do banco de dados. 
-    - Mensagem de confirmando a exclusão;
+    - Remoção do Gênero do banco de dados. 
+    - Mensagem de confirmando do cadastro;
  - **Cenário de sucesso principal:**
     1. Usuário tem acesso a página de Login;
     2. Usuário tem Login autenticado;
@@ -322,5 +322,5 @@ Interações dos usuários com o sistema.
 ### 11 Referências
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzkzMTE5NjldfQ==
+eyJoaXN0b3J5IjpbMTM1NTc4NjIwMV19
 -->
